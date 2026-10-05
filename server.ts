@@ -1,7 +1,6 @@
 import express from "express";
 import path from "path";
 import dotenv from "dotenv";
-import { createServer as createViteServer } from "vite";
 import { dbService, DB_SCHEMA_DDL } from "./server/db";
 import { analyzeMealImage, askDietitianQuestion, generateRecommendedRecipes } from "./server/geminiService";
 import { queryNutritionDatabase, TAIWAN_FDA_NUTRITION_DB } from "./server/nutritionDb";
@@ -10,7 +9,7 @@ dotenv.config();
 
 const PORT = Number(process.env.PORT) || 3000;
 
-// 將 app 宣告在最外層，方便 Vercel / Serverless Function 匯出
+// 將 app 宣告在最外層，供 Vercel Serverless Function 匯出使用
 const app = express();
 
 // 支援大圖 base64 傳輸 (拍照分析)
@@ -383,15 +382,20 @@ app.all("/api/*", (req, res) => {
 });
 
 // =========================================================================
-// Vite Middleware 與靜態文件服務
+// Vite Middleware 與靜態文件服務 (改為動態 import 防止生產環境找不到 Vite 套件)
 // =========================================================================
 async function startServer() {
   if (process.env.NODE_ENV !== "production") {
-    const vite = await createViteServer({
-      server: { middlewareMode: true },
-      appType: "spa",
-    });
-    app.use(vite.middlewares);
+    try {
+      const { createServer: createViteServer } = await import("vite");
+      const vite = await createViteServer({
+        server: { middlewareMode: true },
+        appType: "spa",
+      });
+      app.use(vite.middlewares);
+    } catch (e) {
+      console.warn("跳過 Vite 開發伺服器加載:", e);
+    }
   } else {
     const distPath = path.join(process.cwd(), "dist");
     app.use(express.static(distPath));
@@ -400,13 +404,12 @@ async function startServer() {
     });
   }
 
-  // 僅在非 Vercel 環境才開啟監聽連接埠 (Vercel 會以 Serverless 模式自動管理)
+  // 僅在非 Vercel 環境才開啟監聽連接埠
   if (process.env.VERCEL !== '1') {
     app.listen(PORT, "0.0.0.0", () => {
       console.log(`=================================================`);
       console.log(` NutriFit AI 健身營養師 Server Running on port ${PORT}`);
       console.log(` API Ready`);
-      console.log(` Database: Users & Meal_Logs initialized`);
       console.log(`=================================================`);
     });
   }
