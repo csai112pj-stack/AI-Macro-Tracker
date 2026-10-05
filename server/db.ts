@@ -411,7 +411,9 @@ export function buildNextDayCompensationPlan(
 }
 
 
-const DATA_DIR = path.join(process.cwd(), '.data');
+const DATA_DIR = process.env.VERCEL === '1'
+  ? path.join('/tmp', '.data')
+  : path.join(process.cwd(), '.data');
 const USERS_FILE = path.join(DATA_DIR, 'users.json');
 const MEALS_FILE = path.join(DATA_DIR, 'meal_logs.json');
 
