@@ -417,5 +417,16 @@ async function startServer() {
 
 startServer();
 
-// 匯出 Express app 供 Vercel Serverless Function (/api/index.ts) 使用
+// =========================================================================
+// 全域錯誤處理器 (強制將所有崩潰與 Exception 轉為 JSON 回傳，防止出現 A server error...)
+// =========================================================================
+app.use((err: any, req: express.Request, res: express.Response, next: express.NextFunction) => {
+  console.error(" Server Internal Error:", err);
+  res.status(500).json({
+    success: false,
+    error: err?.message || "伺服器內部發生錯誤，請檢查後端日誌。"
+  });
+});
+
+// 匯出 Express app 供 Vercel Serverless Function 使用
 export default app;
