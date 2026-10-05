@@ -571,7 +571,6 @@ class DatabaseService {
   }
 
   private loadFromDisk() {
-    ensureDataDir();
     try {
       if (fs.existsSync(USERS_FILE)) {
         const usersData = JSON.parse(fs.readFileSync(USERS_FILE, 'utf-8'));
@@ -603,9 +602,13 @@ class DatabaseService {
         this.saveMealsToDisk();
       }
     } catch (err) {
-      console.error('Failed to load database from disk, using defaults:', err);
-      this.users.set(INITIAL_USER.id, INITIAL_USER);
-      this.meals = [...INITIAL_MEALS];
+      console.warn('無法從磁碟載入或初始化資料，自動退回記憶體模式:', err);
+      if (this.users.size === 0) {
+        this.users.set(INITIAL_USER.id, INITIAL_USER);
+      }
+      if (this.meals.length === 0) {
+        this.meals = [...INITIAL_MEALS];
+      }
     }
   }
 
@@ -614,7 +617,8 @@ class DatabaseService {
       ensureDataDir();
       fs.writeFileSync(USERS_FILE, JSON.stringify(Array.from(this.users.values()), null, 2));
     } catch (err) {
-      console.error('Error saving users to disk:', err);
+      // 捕獲 Vercel 唯讀環境的錯誤，防止伺服器崩潰
+      console.warn('注意：目前環境為唯讀檔案系統 (Vercel)，使用者資料已暫存於記憶體中。');
     }
   }
 
@@ -623,7 +627,8 @@ class DatabaseService {
       ensureDataDir();
       fs.writeFileSync(MEALS_FILE, JSON.stringify(this.meals, null, 2));
     } catch (err) {
-      console.error('Error saving meals to disk:', err);
+      // 捕獲 Vercel 唯讀環境的錯誤，防止伺服器崩潰
+      console.warn('注意：目前環境為唯讀檔案系統 (Vercel)，餐點紀錄已暫存於記憶體中。');
     }
   }
 
