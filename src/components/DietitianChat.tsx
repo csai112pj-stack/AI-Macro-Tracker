@@ -142,33 +142,62 @@ export const DietitianChat: React.FC<DietitianChatProps> = ({
     setLoading(true);
 
     try {
-      const res = await fetch('/api/dietitian/chat', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: query, userId: user?.id })
-      });
-      const data = await res.json();
-      
-      const botReply: Message = {
-        id: 'bot_' + Date.now(),
-        sender: 'dietitian',
-        text: data.reply || '抱歉，暫時無法產生營養師回覆，請稍後再試。',
-        timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
-      };
-      setMessages((prev) => [...prev, botReply]);
-    } catch (err) {
-      console.error('Dietitian chat error:', err);
-      const errMsg: Message = {
-        id: 'err_' + Date.now(),
-        sender: 'dietitian',
-        text: '抱歉，連線至雲端營養師服務異常，請確認伺服器連線狀態。',
-        timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
-      };
-      setMessages((prev) => [...prev, errMsg]);
-    } finally {
-      setLoading(false);
-    }
+  // 1. 發送請求
+  const res = await fetch('/api/dietitian/chat', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ message: query, userId: user?.id })
+  });
+
+  if (!res.ok || !res.body) {
+    throw new Error('伺服器回應異常');
+  }
+
+  // 2. 先建立一筆空的 Bot 訊息放到對話列表中
+  const botMessageId = 'bot_' + Date.now();
+  const timeString = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+
+  const initialBotReply: Message = {
+    id: botMessageId,
+    sender: 'dietitian',
+    text: '', // 初始字串為空，等待串流寫入
+    timestamp: timeString
   };
+
+  setMessages((prev) => [...prev, initialBotReply]);
+
+  // 3. 讀取串流並逐字解碼
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder('utf-8');
+  let accumulatedText = '';
+
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+
+    // 將二進位數據轉為文字碎片
+    const chunk = decoder.decode(value, { stream: true });
+    accumulatedText += chunk;
+
+    // 即時更新這筆 Bot 訊息的內容（打字機效果）
+    setMessages((prev) =>
+      prev.map((msg) =>
+        msg.id === botMessageId ? { ...msg, text: accumulatedText } : msg
+      )
+    );
+  }
+} catch (err) {
+  console.error('Dietitian chat error:', err);
+  const errMsg: Message = {
+    id: 'err_' + Date.now(),
+    sender: 'dietitian',
+    text: '抱歉，連線至雲端營養師服務異常，請確認伺服器連線狀態。',
+    timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
+  };
+  setMessages((prev) => [...prev, errMsg]);
+} finally {
+  setLoading(false);
+}
 
   // 詢問特定食譜的烹調細節或外食替代
   const handleAskRecipeDetails = (recipe: RecommendedRecipe) => {
