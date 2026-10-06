@@ -231,52 +231,11 @@ export default function App() {
     }
   };
 
-  // 徹底刪除帳號 (從資料庫永久刪除使用者與所有 Meal_Logs)
-  const handleDeleteUser = async (userId: string) => {
-    try {
-      const res = await fetch(`/api/user?userId=${encodeURIComponent(userId)}`, {
-        method: 'DELETE',
-        headers: { 'X-User-Id': userId }
-      });
-      const data = await res.json();
-      if (!data.success) {
-        throw new Error(data.error || '刪除帳號失敗');
-      }
-
-      // 從此裝置記錄中移除
-      setDeviceAccounts(prev => {
-        const updated = prev.filter(a => a.id !== userId);
-        try {
-          localStorage.setItem('nutrifit_device_accounts', JSON.stringify(updated));
-        } catch (e) {
-          console.error(e);
-        }
-        return updated;
-      });
-
-      // 若被刪除的是目前活躍中的使用者
-      if (user?.id === userId) {
-        localStorage.removeItem('nutrifit_active_user_id');
-        setUser(null);
-        setMeals([]);
-        setDailySummary(null);
-        setLatestAnalysis(null);
-        setUserModalState({
-          isOpen: true,
-          mode: 'onboarding'
-        });
-      }
-
-      showNotification('🗑️ 帳號與所有關聯餐點紀錄已永久從雲端伺服器徹底刪除！', 'success');
-    } catch (err: any) {
-      console.error('Error deleting user:', err);
-      showNotification(`刪除失敗：${err.message}`, 'error');
-      throw err;
-    }
-  };
-
-  // 僅從本裝置移除該帳號記憶 (不刪除雲端檔案)
-  const handleRemoveDeviceAccount = (userId: string) => {
+ // 1. 徹底刪除帳號 (從資料庫永久刪除使用者與所有 Meal_Logs)
+const handleDeleteUser = async (userId: string) => {
+  // 💡 將「從此裝置記錄中移除」封裝成可重複呼叫的函式
+  const removeLocalAccount = () => {
+    // 從此裝置記錄中移除
     setDeviceAccounts(prev => {
       const updated = prev.filter(a => a.id !== userId);
       try {
@@ -286,9 +245,72 @@ export default function App() {
       }
       return updated;
     });
-    showNotification('已從本裝置紀錄清單移除 (雲端資料仍安全保留)', 'success');
+
+    // 若被刪除的是目前活躍中的使用者
+    if (user?.id === userId) {
+      localStorage.removeItem('nutrifit_active_user_id');
+      setUser(null);
+      setMeals([]);
+      setDailySummary(null);
+      setLatestAnalysis(null);
+      setUserModalState({
+        isOpen: true,
+        mode: 'onboarding'
+      });
+    }
   };
 
+  try {
+    const res = await fetch(`/api/user?userId=${encodeURIComponent(userId)}`, {
+      method: 'DELETE',
+      headers: { 'X-User-Id': userId }
+    });
+    const data = await res.json();
+
+    // 若 API 回傳失敗/找不到人，判斷是否為「已被刪除/404」
+    if (!res.ok || !data.success) {
+      const errorMsg = data?.error || '刪除帳號失敗';
+
+      // 狀況：雲端資料庫其實已經沒有這個人了（404 或 已刪除）
+      if (
+        res.status === 404 || 
+        errorMsg.includes('找不到') || 
+        errorMsg.includes('已被刪除') || 
+        errorMsg.includes('not found')
+      ) {
+        removeLocalAccount(); // 依然幫本機裝置清除記錄，避免卡片死卡在畫面上
+        showNotification('該帳號已不在雲端，已為您從本機清單移除', 'info');
+        return; // 正常結束，不拋出錯誤
+      }
+
+      // 真正失敗原因才拋出 Error
+      throw new Error(errorMsg);
+    }
+
+    // 正常刪除成功：執行本機移除
+    removeLocalAccount();
+    showNotification('🗑️ 帳號與所有關聯餐點紀錄已永久從雲端伺服器徹底刪除！', 'success');
+
+  } catch (err: any) {
+    console.error('Error deleting user:', err);
+    showNotification(`刪除失敗：${err.message}`, 'error');
+    throw err;
+  }
+};
+
+// 2. 僅從本裝置移除該帳號記憶 (不刪除雲端檔案) —— 保持原樣不變
+const handleRemoveDeviceAccount = (userId: string) => {
+  setDeviceAccounts(prev => {
+    const updated = prev.filter(a => a.id !== userId);
+    try {
+      localStorage.setItem('nutrifit_device_accounts', JSON.stringify(updated));
+    } catch (e) {
+      console.error(e);
+    }
+    return updated;
+  });
+  showNotification('已從本裝置紀錄清單移除 (雲端資料仍安全保留)', 'success');
+};
   // 切換至本裝置已記錄的身分
   const handleSelectUser = async (selected: UserProfile) => {
     localStorage.setItem('nutrifit_active_user_id', selected.id);
