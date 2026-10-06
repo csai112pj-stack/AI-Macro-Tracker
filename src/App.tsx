@@ -680,7 +680,7 @@ const handleRemoveDeviceAccount = (userId: string) => {
       {/* 頁腳 */}
       <footer className="mt-auto py-6 bg-white border-t border-slate-200 text-center text-xs text-slate-500">
         <div className="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-2">
-          <p>© 2026 NutriFit AI 健身營養師 ‧ 雲端部署 Google Cloud Run</p>
+          <p>© 2026AI 健身營養師 ‧ 雲端部署 Google Cloud Run</p>
           <div className="flex items-center gap-4 text-slate-400">
             <span>辨識引擎: Gemini 3.8 Flash</span>
             <span>•</span>
