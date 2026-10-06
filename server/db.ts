@@ -605,9 +605,10 @@ class DatabaseService {
       }
     } catch (err) {
       console.warn('無法從磁碟載入或初始化資料，自動退回記憶體模式:', err);
-      if (this.users.size === 0) {
+      /*if (this.users.size === 0) {
         this.users.set(INITIAL_USER.id, INITIAL_USER);
       }
+      */
       if (this.meals.length === 0) {
         this.meals = [...INITIAL_MEALS];
       }
