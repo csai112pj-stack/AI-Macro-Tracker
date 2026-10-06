@@ -309,7 +309,7 @@ export const CameraUploader: React.FC<CameraUploaderProps> = ({
                   <Camera className="w-7 h-7" />
                 </div>
                 <p className="text-sm font-semibold text-slate-300">尚未選取餐點照片</p>
-                <p className="text-xs text-slate-500 mt-1">請開啟相機拍攝、上傳相片，或從右側點擊示範餐點</p>
+                <p className="text-xs text-slate-500 mt-1">請開啟相機拍攝、上傳相片</p>
               </div>
             )}
           </div>
