@@ -198,7 +198,7 @@ export const DietitianChat: React.FC<DietitianChatProps> = ({
 } finally {
   setLoading(false);
 }
-
+  }}
   // 詢問特定食譜的烹調細節或外食替代
   const handleAskRecipeDetails = (recipe: RecommendedRecipe) => {
     const question = `我想了解【${recipe.name}】（${recipe.calories_kcal} kcal / 蛋白 ${recipe.protein_g}g）的具體烹調備餐步驟，以及如果在便利商店或外食有什麼替代搭配？`;
