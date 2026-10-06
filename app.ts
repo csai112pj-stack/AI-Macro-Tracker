@@ -315,12 +315,28 @@ app.post("/api/dietitian/chat", async (req, res) => {
     const dailySummary = dbService.getDailySummary(user.id);
     const recentMeals = dbService.getMealLogs(user.id).slice(0, 5);
 
-    const reply = await askDietitianQuestion(message, user, dailySummary, recentMeals);
-    res.json({ success: true, reply });
-  } catch (err: any) {
-    res.status(500).json({ success: false, error: err.message });
+    // 1. 設定 Header 告訴瀏覽器這是分塊串流純文字 (Transfer-Encoding: chunked)
+  res.setHeader("Content-Type", "text/plain; charset=utf-8");
+  res.setHeader("Transfer-Encoding", "chunked");
+
+  // 2. 呼叫串流版本的 askDietitianQuestion
+  const stream = askDietitianQuestion(message, user, dailySummary, recentMeals);
+
+  // 3. 邊收到 Gemini 的文字碎片，就立刻 write 傳給前端
+  for await (const chunk of stream) {
+    res.write(chunk);
   }
-});
+
+  // 4. 傳送完畢，結束連線
+  res.end();
+} catch (err: any) {
+  console.error("Chat API Error:", err);
+  if (!res.headersSent) {
+    res.status(500).json({ success: false, error: err.message });
+  } else {
+    res.end();
+  }
+}
 
 // 5.1 主動推播食譜
 app.get("/api/dietitian/recipes", async (req, res) => {
