@@ -401,7 +401,7 @@ export const UserProfileModal: React.FC<UserProfileModalProps> = ({
                 required
               />
               <span className="text-[10px] text-slate-500 block mt-1">
-                提示：請在已建立帳號的裝置上複製專屬同步碼（連字符大小寫皆可）。為避免同名混淆並保障隱私，跨裝置登入僅認專屬唯一同步碼。
+                提示：請在已建立帳號的裝置上複製專屬同步碼。為避免同名混淆並保障隱私，跨裝置登入僅認專屬唯一同步碼。
               </span>
             </div>
 
