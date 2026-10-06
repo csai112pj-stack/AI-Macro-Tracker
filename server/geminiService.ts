@@ -625,12 +625,12 @@ function generateFallbackAnalysis(userProfile: UserProfile, mealType: MealType, 
   };
 }
 
-export async function askDietitianQuestion(
+export async function* askDietitianQuestion(
   question: string,
   userProfile: UserProfile,
   dailySummary: any,
   recentMeals: any[]
-): Promise<string> {
+): AsyncGenerator<string, void, unknown> {
   const ai = getGeminiClient();
   const compPlan = dailySummary?.compensation_plan;
   const bulkTargets = compPlan?.muscle_gain_plan?.tomorrow_adjusted_targets;
@@ -670,13 +670,14 @@ ${question}
 請以專業、溫暖且邏輯清晰的口吻回答，列出具體的食物建議與份量（公克），精確計算熱量與營養素，協助達成目標。
 `;
 
-    let response: any = null;
     const chatModels = [
       { model: "gemini-3.8-flash", thinkingConfig: { thinkingLevel: ThinkingLevel.LOW } },
       { model: "gemini-3.1-flash-lite", thinkingConfig: { thinkingLevel: ThinkingLevel.MINIMAL } },
       { model: "gemini-flash-latest" }
     ];
 
+    let streamResult = null;
+    
     for (const item of chatModels) {
       try {
         const config: any = {
@@ -685,21 +686,32 @@ ${question}
         if (item.thinkingConfig) {
           config.thinkingConfig = item.thinkingConfig;
         }
-        response = await ai.models.generateContent({
+        // 改用 generateContentStream (邊思考邊串流輸出)
+        streamResult = await ai.models.generateContentStream({
           model: item.model,
           contents: prompt,
           config
         });
-        if (response?.text) break;
+        if (streamResult) break; // 只要有一個模型成功建立串流就跳出迴圈
       } catch (err: any) {
         console.warn(`Chat model ${item.model} failed (${err.message}), trying fallback...`);
       }
     }
+if (!streamResult) {
+      yield "抱歉，目前無法產生建議，請稍後再試。";
+      return;
+    }
 
-    return response.text?.trim() || "抱歉，目前無法產生建議，請稍後再試。";
+    // 將模型產出的 Chunk 逐字 yield 出去
+    for await (const chunk of streamResult) {
+      if (chunk.text) {
+        yield chunk.text;
+      }
+    }
+
   } catch (err: any) {
     console.error("Gemini dietitian chat error:", err);
-    return `營養師回答中斷：${err.message || '連線逾時'}。請稍後再試或檢查網路連線。`;
+    yield `營養師回答中斷：${err.message || '連線逾時'}。請稍後再試或檢查網路連線。`;
   }
 }
 
