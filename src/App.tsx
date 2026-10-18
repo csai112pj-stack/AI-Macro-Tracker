@@ -592,6 +592,7 @@ const handleRemoveDeviceAccount = (userId: string) => {
                     </strong>
                   </div>
                 </div>
+              </div>
 )}
       </div>
     )}            
