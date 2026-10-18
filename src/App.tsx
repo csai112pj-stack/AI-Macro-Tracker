@@ -593,19 +593,7 @@ const handleRemoveDeviceAccount = (userId: string) => {
                   </div>
                 </div>
 
-                {/* 若今日熱量與三大營養素總結未達標，立即提供隔日補償方案（增肌/減脂分別製作） */}
-                <div className="mt-6">
-                  <NextDayCompensationCard
-                    user={user}
-                    dailySummary={dailySummary}
-                    onConsultDietitian={handleConsultDietitianWithPrompt}
-                    onGoToDashboard={() => setActiveTab('dashboard')}
-                  />
-                </div>
-              </div>
-            )}
-          </div>
-        )}
+               
 
         {/* TAB 2: 今日進度與目標儀表板 */}
         {activeTab === 'dashboard' && (
