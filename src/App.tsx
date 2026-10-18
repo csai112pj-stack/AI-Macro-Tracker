@@ -28,7 +28,7 @@ export default function App() {
   const [meals, setMeals] = useState<MealLog[]>([]);
   const [latestAnalysis, setLatestAnalysis] = useState<MealAnalysisResponse | null>(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
-  
+  const [showCompensation, setShowCompensation] = useState<boolean>(false);
   // 使用者設定與初次進站詢問對話框狀態
   const [userModalState, setUserModalState] = useState<{
     isOpen: boolean;
