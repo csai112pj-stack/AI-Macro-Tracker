@@ -1,7 +1,7 @@
 import React from 'react';
 import { Flame, Activity, Scale, ShieldCheck, Dumbbell, Clock, ChevronRight } from 'lucide-react';
 import { UserProfile, MealLog } from '../types';
-import { NextDayCompensationCard } from './NextDayCompensationCard';
+
 
 interface DailyDashboardProps {
   user: UserProfile | null;
@@ -154,76 +154,6 @@ export const DailyDashboard: React.FC<DailyDashboardProps> = ({
         </div>
 
       </div>
-
-      {/* 隔日營養補償方案 (增肌 / 減脂分別製作) */}
-      <NextDayCompensationCard
-        user={user}
-        dailySummary={dailySummary}
-        onConsultDietitian={onConsultDietitian}
-      />
-
-      {/* 今日餐點時間軸 (Today's Meals) */}
-      <div className="bg-white rounded-2xl border border-slate-200 shadow-sm p-6">
-        <div className="flex items-center justify-between mb-4">
-          <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-            <Clock className="w-4 h-4 text-emerald-600" />
-            今日已記錄餐點 ({today_meals.length} 餐)
-          </h3>
-          <span className="text-xs text-slate-500">
-            自動同步至 Meal_Logs 雲端資料庫
-          </span>
-        </div>
-
-        {today_meals.length === 0 ? (
-          <div className="text-center py-10 text-slate-400">
-            <Flame className="w-10 h-10 mx-auto text-slate-300 mb-2" />
-            <p className="text-sm font-semibold">今日尚未拍照記錄餐點</p>
-            <p className="text-xs text-slate-500 mt-1">點擊上方「拍照記錄新餐點」開始記錄您的第一餐！</p>
-          </div>
-        ) : (
-          <div className="divide-y divide-slate-100">
-            {today_meals.map((meal: MealLog) => (
-              <div
-                key={meal.id}
-                onClick={() => onSelectMeal?.(meal)}
-                className="py-3.5 flex items-center justify-between gap-4 hover:bg-slate-50 rounded-xl px-2.5 transition-colors cursor-pointer"
-              >
-                <div className="flex items-center gap-3 min-w-0">
-                  <div className="w-12 h-12 rounded-xl bg-slate-100 overflow-hidden shrink-0 border border-slate-200">
-                    <img
-                      src={meal.image_path}
-                      alt={meal.meal_name}
-                      referrerPolicy="no-referrer"
-                      className="w-full h-full object-cover"
-                    />
-                  </div>
-                  <div className="min-w-0">
-                    <div className="flex items-center gap-2">
-                      <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-slate-100 text-slate-700 capitalize">
-                        {meal.meal_type}
-                      </span>
-                      <h4 className="font-bold text-slate-900 text-sm truncate">{meal.meal_name}</h4>
-                    </div>
-                    <p className="text-xs text-slate-500 mt-0.5 truncate">
-                      {meal.foods.map(f => f.name).join('、')}
-                    </p>
-                  </div>
-                </div>
-
-                <div className="text-right shrink-0">
-                  <div className="font-extrabold text-sm text-slate-900">
-                    {meal.total_calories} <span className="text-xs font-normal text-slate-500">kcal</span>
-                  </div>
-                  <div className="text-[11px] text-slate-500 font-mono">
-                    P:{meal.total_protein}g ‧ C:{meal.total_carbs}g ‧ F:{meal.total_fat}g
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
-
     </div>
   );
 };
