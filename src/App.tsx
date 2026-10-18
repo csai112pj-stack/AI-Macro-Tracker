@@ -592,9 +592,9 @@ const handleRemoveDeviceAccount = (userId: string) => {
                     </strong>
                   </div>
                 </div>
-
-               
-
+)}
+      </div>
+    )}            
 {/* TAB 2: 今日進度與目標儀表板 */}
       {activeTab === 'dashboard' && (
         <div className="space-y-6">
