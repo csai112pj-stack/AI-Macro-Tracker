@@ -595,8 +595,9 @@ const handleRemoveDeviceAccount = (userId: string) => {
 
                
 
-        {/* TAB 2: 今日進度與目標儀表板 */}
-        {activeTab === 'dashboard' && (
+{/* TAB 2: 今日進度與目標儀表板 */}
+      {activeTab === 'dashboard' && (
+        <div className="space-y-6">
           <DailyDashboard
             user={user}
             dailySummary={dailySummary}
@@ -606,7 +607,28 @@ const handleRemoveDeviceAccount = (userId: string) => {
             }}
             onConsultDietitian={handleConsultDietitianWithPrompt}
           />
-        )}
+
+          {/* 隔日營養補償方案開關按鈕 */}
+          <div className="flex justify-end">
+            <button
+              type="button"
+              onClick={() => setShowCompensation(!showCompensation)}
+              className="flex items-center gap-2 px-4 py-2 bg-slate-900 hover:bg-slate-800 text-white text-xs font-bold rounded-xl shadow-sm transition-all"
+            >
+              <span>{showCompensation ? '🙈 隱藏隔日營養補償方案' : '💡 查看隔日營養補償方案'}</span>
+            </button>
+          </div>
+
+          {/* 點擊後才顯示的隔日營養補償方案卡片 */}
+          {showCompensation && (
+            <NextDayCompensationCard
+              user={user}
+              dailySummary={dailySummary}
+              onConsultDietitian={handleConsultDietitianWithPrompt}
+            />
+          )}
+        </div>
+      )}
 
         {/* TAB 3: 飲食歷史紀錄 (Meal_Logs 表) */}
         {activeTab === 'history' && (
