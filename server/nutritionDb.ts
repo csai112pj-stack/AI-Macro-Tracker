@@ -15,20 +15,19 @@ export function queryNutritionDatabase(query: string, topK: number = 3): {
 
   const cleanQuery = query.toLowerCase().replace(/[\s\-_（）()【】]/g, '');
 
-  const results = TAIWAN_FDA_NUTRITION_DB.map((item) => {
-    const itemName = (item.name || '').toLowerCase();
-    const itemCat = (item.category || '').toLowerCase();
+ const results = TAIWAN_FDA_NUTRITION_DB.map((item: any) => {
+    // 同時相容官方 JSON 的中文欄位與系統英文欄位
+    const itemName = (item.name || item['樣品名稱'] || item['整合名稱'] || '').toLowerCase();
+    const itemCat = (item.category || item['食品分類'] || '').toLowerCase();
 
     let score = 0;
 
-    // 1. 完全包含 (權重最高)
-    if (itemName.includes(cleanQuery)) {
+    // 1. 完全包含
+    if (itemName && (itemName.includes(cleanQuery) || cleanQuery.includes(itemName))) {
       score += 100;
-    } else if (cleanQuery.includes(itemName) && itemName.length > 1) {
-      score += 80;
     }
 
-    // 2. 雙向關鍵字匹配率
+    // 2. 關鍵字比對
     const queryChars = cleanQuery.split('');
     let matchedChars = 0;
     for (const char of queryChars) {
@@ -39,17 +38,26 @@ export function queryNutritionDatabase(query: string, topK: number = 3): {
     const matchRatio = matchedChars / Math.max(cleanQuery.length, 1);
     score += matchRatio * 40;
 
-    // 3. 分類相符加分
-    if (itemCat && cleanQuery.includes(itemCat)) {
-      score += 20;
-    }
+    // 將資料格式統一轉回系統需要的 NutritionDbItem 結構
+    const normalizedItem: NutritionDbItem = {
+      code: item.code || item['樣品編號'] || 'TFDA_ITEM',
+      name: item.name || item['樣品名稱'] || '未命名食材',
+      category: item.category || item['食品分類'] || '一般食物',
+      calories_per_100g: Number(item.calories_per_100g || item['熱量(kcal)'] || item['修正熱量(kcal)'] || 0),
+      protein_per_100g: Number(item.protein_per_100g || item['粗蛋白(g)'] || 0),
+      carbs_per_100g: Number(item.carbs_per_100g || item['總碳水化合物(g)'] || 0),
+      fat_per_100g: Number(item.fat_per_100g || item['粗脂肪(g)'] || 0),
+      fiber_per_100g: Number(item.fiber_per_100g || item['膳食纖維(g)'] || 0),
+      sodium_per_100g: Number(item.sodium_per_100g || item['鈉(mg)'] || 0),
+      common_portion_g: 100,
+      portion_unit: "100g"
+    };
 
-    return { item, score: Math.round(score) };
+    return { item: normalizedItem, score: Math.round(score) };
   });
 
-  // 過濾掉分數過低的無關選項並降序排序，取 Top K
   return results
-    .filter(r => r.score > 15)
+    .filter(r => r.score > 25)
     .sort((a, b) => b.score - a.score)
     .slice(0, topK);
 }
