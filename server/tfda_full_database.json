@@ -1811,7 +1811,7 @@
         "protein_per_100g": 17.153,
         "carbs_per_100g": 13.3451,
         "fat_per_100g": 27.444,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 363.0284
     },
     {
@@ -6211,7 +6211,7 @@
         "protein_per_100g": 2.2,
         "carbs_per_100g": 3.78,
         "fat_per_100g": 0.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 9.0
     },
     {
@@ -9368,7 +9368,7 @@
         "protein_per_100g": 15.1305,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 28.8672,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.497
     },
     {
@@ -9379,7 +9379,7 @@
         "protein_per_100g": 17.1365,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 24.0194,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 59.469
     },
     {
@@ -9390,7 +9390,7 @@
         "protein_per_100g": 13.1245,
         "carbs_per_100g": 0.3875,
         "fat_per_100g": 33.715,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 61.525
     },
     {
@@ -9412,7 +9412,7 @@
         "protein_per_100g": 18.638,
         "carbs_per_100g": 1.1166,
         "fat_per_100g": 16.15,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 81.3
     },
     {
@@ -9434,7 +9434,7 @@
         "protein_per_100g": 20.432,
         "carbs_per_100g": 1.5127,
         "fat_per_100g": 8.2881,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 45.7847
     },
     {
@@ -9445,7 +9445,7 @@
         "protein_per_100g": 19.8345,
         "carbs_per_100g": 0.1704,
         "fat_per_100g": 9.0433,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 70.0115
     },
     {
@@ -9456,7 +9456,7 @@
         "protein_per_100g": 16.906,
         "carbs_per_100g": 1.2152,
         "fat_per_100g": 17.88,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 53.13
     },
     {
@@ -9467,7 +9467,7 @@
         "protein_per_100g": 14.79,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 29.65,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.81
     },
     {
@@ -9478,7 +9478,7 @@
         "protein_per_100g": 22.28,
         "carbs_per_100g": 0.9302,
         "fat_per_100g": 2.81,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 44.68
     },
     {
@@ -9489,7 +9489,7 @@
         "protein_per_100g": 21.33,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.029,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.29
     },
     {
@@ -9500,7 +9500,7 @@
         "protein_per_100g": 20.6265,
         "carbs_per_100g": 0.1333,
         "fat_per_100g": 10.66,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.86
     },
     {
@@ -9511,7 +9511,7 @@
         "protein_per_100g": 20.692,
         "carbs_per_100g": 0.2441,
         "fat_per_100g": 6.029,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.22
     },
     {
@@ -9522,7 +9522,7 @@
         "protein_per_100g": 19.439,
         "carbs_per_100g": 3.7037,
         "fat_per_100g": 4.3137,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 58.3605
     },
     {
@@ -9533,7 +9533,7 @@
         "protein_per_100g": 20.6,
         "carbs_per_100g": 0.7897,
         "fat_per_100g": 7.1803,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 48.37
     },
     {
@@ -9544,7 +9544,7 @@
         "protein_per_100g": 19.8387,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 6.0367,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 79.1733
     },
     {
@@ -9566,7 +9566,7 @@
         "protein_per_100g": 19.0555,
         "carbs_per_100g": 0.0172,
         "fat_per_100g": 18.7321,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 47.5924
     },
     {
@@ -9577,7 +9577,7 @@
         "protein_per_100g": 15.747,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 40.2512,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 44.536
     },
     {
@@ -9588,7 +9588,7 @@
         "protein_per_100g": 20.128,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 19.5922,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 33.713
     },
     {
@@ -9599,7 +9599,7 @@
         "protein_per_100g": 20.3,
         "carbs_per_100g": 0.9048,
         "fat_per_100g": 3.6893,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 56.5055
     },
     {
@@ -9610,7 +9610,7 @@
         "protein_per_100g": 20.047,
         "carbs_per_100g": 1.7868,
         "fat_per_100g": 11.3956,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.615
     },
     {
@@ -9621,7 +9621,7 @@
         "protein_per_100g": 11.402,
         "carbs_per_100g": 0.1171,
         "fat_per_100g": 0.785,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 82.195
     },
     {
@@ -9632,7 +9632,7 @@
         "protein_per_100g": 7.482,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.37,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 113.1
     },
     {
@@ -9643,7 +9643,7 @@
         "protein_per_100g": 15.322,
         "carbs_per_100g": 0.2776,
         "fat_per_100g": 0.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.29
     },
     {
@@ -9654,7 +9654,7 @@
         "protein_per_100g": 18.9595,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.849,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 103.404
     },
     {
@@ -9665,7 +9665,7 @@
         "protein_per_100g": 21.694,
         "carbs_per_100g": 3.268,
         "fat_per_100g": 7.1706,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.349
     },
     {
@@ -9676,7 +9676,7 @@
         "protein_per_100g": 20.258,
         "carbs_per_100g": 3.3944,
         "fat_per_100g": 8.6326,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 80.764
     },
     {
@@ -9687,7 +9687,7 @@
         "protein_per_100g": 21.3,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.0
     },
     {
@@ -9698,7 +9698,7 @@
         "protein_per_100g": 18.883,
         "carbs_per_100g": 0.074,
         "fat_per_100g": 9.9475,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 98.9395
     },
     {
@@ -9709,7 +9709,7 @@
         "protein_per_100g": 18.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 13.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 73.0
     },
     {
@@ -9720,7 +9720,7 @@
         "protein_per_100g": 18.76,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 19.965,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 68.235
     },
     {
@@ -9731,7 +9731,7 @@
         "protein_per_100g": 17.835,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 13.515,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.357
     },
     {
@@ -9742,7 +9742,7 @@
         "protein_per_100g": 26.477,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.3164,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.467
     },
     {
@@ -9753,7 +9753,7 @@
         "protein_per_100g": 16.941,
         "carbs_per_100g": 2.5322,
         "fat_per_100g": 19.9671,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 76.374
     },
     {
@@ -9764,7 +9764,7 @@
         "protein_per_100g": 18.101,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 13.605,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.29
     },
     {
@@ -9775,7 +9775,7 @@
         "protein_per_100g": 18.202,
         "carbs_per_100g": 0.0439,
         "fat_per_100g": 13.258,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.54
     },
     {
@@ -9786,7 +9786,7 @@
         "protein_per_100g": 20.0675,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.045,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.575
     },
     {
@@ -9797,7 +9797,7 @@
         "protein_per_100g": 18.8845,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 14.0077,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.732
     },
     {
@@ -9808,7 +9808,7 @@
         "protein_per_100g": 16.5457,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 24.8362,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.7137
     },
     {
@@ -9819,7 +9819,7 @@
         "protein_per_100g": 17.94,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.73,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 97.02
     },
     {
@@ -9841,7 +9841,7 @@
         "protein_per_100g": 20.6695,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 6.4549,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 71.0995
     },
     {
@@ -9852,7 +9852,7 @@
         "protein_per_100g": 19.011,
         "carbs_per_100g": 0.7915,
         "fat_per_100g": 11.4015,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 66.37
     },
     {
@@ -9863,7 +9863,7 @@
         "protein_per_100g": 20.386,
         "carbs_per_100g": 0.4183,
         "fat_per_100g": 3.96,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 48.51
     },
     {
@@ -9874,7 +9874,7 @@
         "protein_per_100g": 18.837,
         "carbs_per_100g": 0.016,
         "fat_per_100g": 16.265,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.3
     },
     {
@@ -9885,7 +9885,7 @@
         "protein_per_100g": 21.0705,
         "carbs_per_100g": 0.2628,
         "fat_per_100g": 3.3762,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 41.125
     },
     {
@@ -9896,7 +9896,7 @@
         "protein_per_100g": 19.2457,
         "carbs_per_100g": 0.0277,
         "fat_per_100g": 14.3619,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 40.097
     },
     {
@@ -9907,7 +9907,7 @@
         "protein_per_100g": 19.1,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 14.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.0
     },
     {
@@ -9918,7 +9918,7 @@
         "protein_per_100g": 18.0063,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 23.341,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 74.3743
     },
     {
@@ -9929,7 +9929,7 @@
         "protein_per_100g": 20.388,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 13.4788,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 48.212
     },
     {
@@ -9940,7 +9940,7 @@
         "protein_per_100g": 21.1225,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.4432,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 45.7805
     },
     {
@@ -9951,7 +9951,7 @@
         "protein_per_100g": 14.9033,
         "carbs_per_100g": 0.4556,
         "fat_per_100g": 32.8512,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.668
     },
     {
@@ -9962,7 +9962,7 @@
         "protein_per_100g": 14.54,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 33.9325,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 62.2725
     },
     {
@@ -9973,7 +9973,7 @@
         "protein_per_100g": 18.744,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 20.7126,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 66.572
     },
     {
@@ -9984,7 +9984,7 @@
         "protein_per_100g": 14.583,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 17.4738,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 42.65
     },
     {
@@ -9995,7 +9995,7 @@
         "protein_per_100g": 17.52,
         "carbs_per_100g": 1.3775,
         "fat_per_100g": 11.905,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 64.9
     },
     {
@@ -10017,7 +10017,7 @@
         "protein_per_100g": 17.237,
         "carbs_per_100g": 0.8429,
         "fat_per_100g": 23.3001,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.289
     },
     {
@@ -10028,7 +10028,7 @@
         "protein_per_100g": 18.738,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 14.5939,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 58.24
     },
     {
@@ -10039,7 +10039,7 @@
         "protein_per_100g": 18.972,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 15.1731,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.808
     },
     {
@@ -10050,7 +10050,7 @@
         "protein_per_100g": 18.504,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 14.0147,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.672
     },
     {
@@ -10061,7 +10061,7 @@
         "protein_per_100g": 13.5745,
         "carbs_per_100g": 1.0301,
         "fat_per_100g": 7.765,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 73.63
     },
     {
@@ -10072,7 +10072,7 @@
         "protein_per_100g": 14.136,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.5688,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 67.864
     },
     {
@@ -10083,7 +10083,7 @@
         "protein_per_100g": 22.119,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 43.9531,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 108.935
     },
     {
@@ -10094,7 +10094,7 @@
         "protein_per_100g": 24.163,
         "carbs_per_100g": 0.8706,
         "fat_per_100g": 12.8301,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 175.36
     },
     {
@@ -10105,7 +10105,7 @@
         "protein_per_100g": 18.468,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 11.775,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 119.205
     },
     {
@@ -10116,7 +10116,7 @@
         "protein_per_100g": 6.3017,
         "carbs_per_100g": 0.5152,
         "fat_per_100g": 0.2748,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 178.6507
     },
     {
@@ -10127,7 +10127,7 @@
         "protein_per_100g": 16.188,
         "carbs_per_100g": 7.1377,
         "fat_per_100g": 25.03,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 92.4
     },
     {
@@ -10138,7 +10138,7 @@
         "protein_per_100g": 20.813,
         "carbs_per_100g": 1.6635,
         "fat_per_100g": 5.2839,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 83.89
     },
     {
@@ -10149,7 +10149,7 @@
         "protein_per_100g": 12.446,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 10.955,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 61.795
     },
     {
@@ -10160,7 +10160,7 @@
         "protein_per_100g": 16.03,
         "carbs_per_100g": 2.7008,
         "fat_per_100g": 7.55,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 29.68
     },
     {
@@ -10171,7 +10171,7 @@
         "protein_per_100g": 17.388,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 84.5464,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 152.84
     },
     {
@@ -10182,7 +10182,7 @@
         "protein_per_100g": 0.948,
         "carbs_per_100g": 0.0274,
         "fat_per_100g": 0.43,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 14.98
     },
     {
@@ -10193,7 +10193,7 @@
         "protein_per_100g": 1.008,
         "carbs_per_100g": 0.4034,
         "fat_per_100g": 0.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 23.31
     },
     {
@@ -10204,7 +10204,7 @@
         "protein_per_100g": 0.693,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.64,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 5.75
     },
     {
@@ -10215,7 +10215,7 @@
         "protein_per_100g": 1.143,
         "carbs_per_100g": 0.2352,
         "fat_per_100g": 0.35,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 15.88
     },
     {
@@ -10226,7 +10226,7 @@
         "protein_per_100g": 15.648,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 29.3994,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 89.88
     },
     {
@@ -10237,7 +10237,7 @@
         "protein_per_100g": 15.0215,
         "carbs_per_100g": 1.6766,
         "fat_per_100g": 1.925,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 101.69
     },
     {
@@ -10248,7 +10248,7 @@
         "protein_per_100g": 15.038,
         "carbs_per_100g": 2.0056,
         "fat_per_100g": 1.62,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.07
     },
     {
@@ -10259,7 +10259,7 @@
         "protein_per_100g": 6.592,
         "carbs_per_100g": 1.9137,
         "fat_per_100g": 18.855,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 44.72
     },
     {
@@ -10270,7 +10270,7 @@
         "protein_per_100g": 12.4805,
         "carbs_per_100g": 0.6162,
         "fat_per_100g": 11.385,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 29.725
     },
     {
@@ -10281,7 +10281,7 @@
         "protein_per_100g": 10.905,
         "carbs_per_100g": 8.6286,
         "fat_per_100g": 15.4168,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 83.9395
     },
     {
@@ -10292,7 +10292,7 @@
         "protein_per_100g": 21.887,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 17.58,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 114.185
     },
     {
@@ -10303,7 +10303,7 @@
         "protein_per_100g": 19.542,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 18.79,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 69.2
     },
     {
@@ -10314,7 +10314,7 @@
         "protein_per_100g": 17.1,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 28.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.0
     },
     {
@@ -10325,7 +10325,7 @@
         "protein_per_100g": 14.377,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.1282,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 44.34
     },
     {
@@ -10336,7 +10336,7 @@
         "protein_per_100g": 10.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 8.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 120.0
     },
     {
@@ -10347,7 +10347,7 @@
         "protein_per_100g": 18.983,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.7452,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 70.02
     },
     {
@@ -10358,7 +10358,7 @@
         "protein_per_100g": 16.121,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 19.88,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 44.1
     },
     {
@@ -10369,7 +10369,7 @@
         "protein_per_100g": 17.863,
         "carbs_per_100g": 0.8945,
         "fat_per_100g": 15.0723,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 42.38
     },
     {
@@ -10380,7 +10380,7 @@
         "protein_per_100g": 24.2488,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.6127,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.5465
     },
     {
@@ -10391,7 +10391,7 @@
         "protein_per_100g": 24.845,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.6154,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 71.523
     },
     {
@@ -10402,7 +10402,7 @@
         "protein_per_100g": 23.6525,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.61,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.57
     },
     {
@@ -10413,7 +10413,7 @@
         "protein_per_100g": 22.4,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.0
     },
     {
@@ -10424,7 +10424,7 @@
         "protein_per_100g": 19.327,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 15.09,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.95
     },
     {
@@ -10435,7 +10435,7 @@
         "protein_per_100g": 23.335,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.124,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.2085
     },
     {
@@ -10446,7 +10446,7 @@
         "protein_per_100g": 23.356,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.3387,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 67.152
     },
     {
@@ -10457,7 +10457,7 @@
         "protein_per_100g": 23.314,
         "carbs_per_100g": 0.637,
         "fat_per_100g": 1.9093,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 33.265
     },
     {
@@ -10479,7 +10479,7 @@
         "protein_per_100g": 21.708,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.0924,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.889
     },
     {
@@ -10512,7 +10512,7 @@
         "protein_per_100g": 20.4,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 6.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 131.0
     },
     {
@@ -10534,7 +10534,7 @@
         "protein_per_100g": 18.9143,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 7.808,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 138.55
     },
     {
@@ -10545,7 +10545,7 @@
         "protein_per_100g": 21.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 168.0
     },
     {
@@ -10556,7 +10556,7 @@
         "protein_per_100g": 16.8285,
         "carbs_per_100g": 0.3234,
         "fat_per_100g": 9.7159,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 109.1
     },
     {
@@ -10567,7 +10567,7 @@
         "protein_per_100g": 17.096,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.2213,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 86.255
     },
     {
@@ -10578,7 +10578,7 @@
         "protein_per_100g": 18.9,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 8.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 97.0
     },
     {
@@ -10589,7 +10589,7 @@
         "protein_per_100g": 15.292,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 15.8425,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 75.51
     },
     {
@@ -10622,7 +10622,7 @@
         "protein_per_100g": 18.0893,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 16.4444,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 83.08
     },
     {
@@ -10633,7 +10633,7 @@
         "protein_per_100g": 19.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 15.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 68.0
     },
     {
@@ -10644,7 +10644,7 @@
         "protein_per_100g": 16.3785,
         "carbs_per_100g": 0.6317,
         "fat_per_100g": 16.9887,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 98.16
     },
     {
@@ -10655,7 +10655,7 @@
         "protein_per_100g": 18.3292,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 14.6382,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 75.3803
     },
     {
@@ -10666,7 +10666,7 @@
         "protein_per_100g": 19.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 13.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 66.0
     },
     {
@@ -10677,7 +10677,7 @@
         "protein_per_100g": 17.6583,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 16.2763,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 84.7606
     },
     {
@@ -10699,7 +10699,7 @@
         "protein_per_100g": 17.759,
         "carbs_per_100g": 0.9968,
         "fat_per_100g": 14.84,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 69.82
     },
     {
@@ -10710,7 +10710,7 @@
         "protein_per_100g": 27.44,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.563,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 38.09
     },
     {
@@ -10721,7 +10721,7 @@
         "protein_per_100g": 13.2535,
         "carbs_per_100g": 0.1004,
         "fat_per_100g": 14.755,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 87.125
     },
     {
@@ -10754,7 +10754,7 @@
         "protein_per_100g": 18.786,
         "carbs_per_100g": 2.6984,
         "fat_per_100g": 3.45,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 93.415
     },
     {
@@ -10765,7 +10765,7 @@
         "protein_per_100g": 16.635,
         "carbs_per_100g": 0.2942,
         "fat_per_100g": 1.99,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.37
     },
     {
@@ -10776,7 +10776,7 @@
         "protein_per_100g": 1.475,
         "carbs_per_100g": 0.211,
         "fat_per_100g": 0.28,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 24.35
     },
     {
@@ -10787,7 +10787,7 @@
         "protein_per_100g": 10.572,
         "carbs_per_100g": 0.2333,
         "fat_per_100g": 2.8281,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 89.932
     },
     {
@@ -10798,7 +10798,7 @@
         "protein_per_100g": 20.6625,
         "carbs_per_100g": 1.2454,
         "fat_per_100g": 13.3393,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 101.79
     },
     {
@@ -10809,7 +10809,7 @@
         "protein_per_100g": 20.404,
         "carbs_per_100g": 0.4959,
         "fat_per_100g": 2.2145,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 196.703
     },
     {
@@ -10831,7 +10831,7 @@
         "protein_per_100g": 15.973,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 27.83,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 41.03
     },
     {
@@ -10842,7 +10842,7 @@
         "protein_per_100g": 18.23,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 16.7313,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.25
     },
     {
@@ -10853,7 +10853,7 @@
         "protein_per_100g": 20.075,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.791,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 64.399
     },
     {
@@ -10864,7 +10864,7 @@
         "protein_per_100g": 20.9,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 70.0
     },
     {
@@ -10875,7 +10875,7 @@
         "protein_per_100g": 16.701,
         "carbs_per_100g": 4.6863,
         "fat_per_100g": 17.2081,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 37.386
     },
     {
@@ -10886,7 +10886,7 @@
         "protein_per_100g": 14.353,
         "carbs_per_100g": 3.3766,
         "fat_per_100g": 24.49,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 47.8
     },
     {
@@ -10897,7 +10897,7 @@
         "protein_per_100g": 6.006,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.3486,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 130.9003
     },
     {
@@ -10908,7 +10908,7 @@
         "protein_per_100g": 20.499,
         "carbs_per_100g": 0.3138,
         "fat_per_100g": 1.08,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 78.53
     },
     {
@@ -10919,7 +10919,7 @@
         "protein_per_100g": 12.589,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 6.6224,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 77.83
     },
     {
@@ -10930,7 +10930,7 @@
         "protein_per_100g": 13.787,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.8574,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.965
     },
     {
@@ -10974,7 +10974,7 @@
         "protein_per_100g": 15.6,
         "carbs_per_100g": 2.4,
         "fat_per_100g": 13.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.0
     },
     {
@@ -10985,7 +10985,7 @@
         "protein_per_100g": 23.46,
         "carbs_per_100g": 0.2075,
         "fat_per_100g": 2.2347,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.673
     },
     {
@@ -10996,7 +10996,7 @@
         "protein_per_100g": 21.692,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.1891,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 75.144
     },
     {
@@ -11007,7 +11007,7 @@
         "protein_per_100g": 14.512,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 19.89,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 71.807
     },
     {
@@ -11018,7 +11018,7 @@
         "protein_per_100g": 20.487,
         "carbs_per_100g": 0.6418,
         "fat_per_100g": 3.9372,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 391.934
     },
     {
@@ -11029,7 +11029,7 @@
         "protein_per_100g": 17.359,
         "carbs_per_100g": 2.8204,
         "fat_per_100g": 2.3468,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 76.592
     },
     {
@@ -11040,7 +11040,7 @@
         "protein_per_100g": 9.2195,
         "carbs_per_100g": 0.7315,
         "fat_per_100g": 2.6114,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 109.989
     },
     {
@@ -11051,7 +11051,7 @@
         "protein_per_100g": 21.1,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.0
     },
     {
@@ -11062,7 +11062,7 @@
         "protein_per_100g": 22.8285,
         "carbs_per_100g": 0.7987,
         "fat_per_100g": 0.8405,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 59.2235
     },
     {
@@ -11073,7 +11073,7 @@
         "protein_per_100g": 20.899,
         "carbs_per_100g": 6.0579,
         "fat_per_100g": 0.8235,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.883
     },
     {
@@ -11084,7 +11084,7 @@
         "protein_per_100g": 18.714,
         "carbs_per_100g": 0.2231,
         "fat_per_100g": 3.0556,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 75.023
     },
     {
@@ -11095,7 +11095,7 @@
         "protein_per_100g": 21.166,
         "carbs_per_100g": 0.6619,
         "fat_per_100g": 5.9001,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 85.927
     },
     {
@@ -11117,7 +11117,7 @@
         "protein_per_100g": 21.1,
         "carbs_per_100g": 0.6,
         "fat_per_100g": 0.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 70.0
     },
     {
@@ -11128,7 +11128,7 @@
         "protein_per_100g": 19.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 29.0
     },
     {
@@ -11139,7 +11139,7 @@
         "protein_per_100g": 27.35,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.06,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 82.76
     },
     {
@@ -11150,7 +11150,7 @@
         "protein_per_100g": 25.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 142.0
     },
     {
@@ -11161,7 +11161,7 @@
         "protein_per_100g": 24.7865,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.016,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 61.5837
     },
     {
@@ -11172,7 +11172,7 @@
         "protein_per_100g": 20.07,
         "carbs_per_100g": 0.1078,
         "fat_per_100g": 7.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 322.85
     },
     {
@@ -11183,7 +11183,7 @@
         "protein_per_100g": 24.76,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.07,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 167.63
     },
     {
@@ -11194,7 +11194,7 @@
         "protein_per_100g": 18.091,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 19.5617,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.97
     },
     {
@@ -11205,7 +11205,7 @@
         "protein_per_100g": 20.5,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 83.0
     },
     {
@@ -11216,7 +11216,7 @@
         "protein_per_100g": 11.0715,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.9248,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 455.745
     },
     {
@@ -11227,7 +11227,7 @@
         "protein_per_100g": 26.213,
         "carbs_per_100g": 0.9992,
         "fat_per_100g": 1.3195,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1840.572
     },
     {
@@ -11238,7 +11238,7 @@
         "protein_per_100g": 20.672,
         "carbs_per_100g": 1.0598,
         "fat_per_100g": 0.958,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 851.3407
     },
     {
@@ -11249,7 +11249,7 @@
         "protein_per_100g": 31.754,
         "carbs_per_100g": 0.9386,
         "fat_per_100g": 1.681,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2829.8033
     },
     {
@@ -11271,7 +11271,7 @@
         "protein_per_100g": 20.986,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.3164,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 705.482
     },
     {
@@ -11282,7 +11282,7 @@
         "protein_per_100g": 21.54,
         "carbs_per_100g": 1.1599,
         "fat_per_100g": 2.1356,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 735.962
     },
     {
@@ -11293,7 +11293,7 @@
         "protein_per_100g": 51.766,
         "carbs_per_100g": 1.7404,
         "fat_per_100g": 5.9556,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1276.2148
     },
     {
@@ -11304,7 +11304,7 @@
         "protein_per_100g": 21.84,
         "carbs_per_100g": 0.1554,
         "fat_per_100g": 9.4894,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 41.3935
     },
     {
@@ -11315,7 +11315,7 @@
         "protein_per_100g": 19.787,
         "carbs_per_100g": 1.3422,
         "fat_per_100g": 10.577,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.979
     },
     {
@@ -11326,7 +11326,7 @@
         "protein_per_100g": 22.329,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 10.428,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 26.9028
     },
     {
@@ -11337,7 +11337,7 @@
         "protein_per_100g": 23.731,
         "carbs_per_100g": 0.4842,
         "fat_per_100g": 2.552,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 41.8856
     },
     {
@@ -11348,7 +11348,7 @@
         "protein_per_100g": 21.99,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.68,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 40.83
     },
     {
@@ -11359,7 +11359,7 @@
         "protein_per_100g": 21.363,
         "carbs_per_100g": 0.0824,
         "fat_per_100g": 11.21,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 53.37
     },
     {
@@ -11370,7 +11370,7 @@
         "protein_per_100g": 21.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 11.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 96.0
     },
     {
@@ -11392,7 +11392,7 @@
         "protein_per_100g": 17.431,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 29.645,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 47.046
     },
     {
@@ -11403,7 +11403,7 @@
         "protein_per_100g": 21.381,
         "carbs_per_100g": 2.0674,
         "fat_per_100g": 8.327,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.816
     },
     {
@@ -11414,7 +11414,7 @@
         "protein_per_100g": 17.2,
         "carbs_per_100g": 0.8,
         "fat_per_100g": 2.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 37.0
     },
     {
@@ -11425,7 +11425,7 @@
         "protein_per_100g": 14.5,
         "carbs_per_100g": 2.1,
         "fat_per_100g": 3.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 38.0
     },
     {
@@ -11436,7 +11436,7 @@
         "protein_per_100g": 18.7,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 7.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 24.0
     },
     {
@@ -11447,7 +11447,7 @@
         "protein_per_100g": 16.3,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 13.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 37.0
     },
     {
@@ -11458,7 +11458,7 @@
         "protein_per_100g": 19.17,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.46,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 114.95
     },
     {
@@ -11469,7 +11469,7 @@
         "protein_per_100g": 15.002,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.4051,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 104.468
     },
     {
@@ -11480,7 +11480,7 @@
         "protein_per_100g": 18.524,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 7.51,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.56
     },
     {
@@ -11491,7 +11491,7 @@
         "protein_per_100g": 14.343,
         "carbs_per_100g": 0.8935,
         "fat_per_100g": 0.896,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 56.0616
     },
     {
@@ -11502,7 +11502,7 @@
         "protein_per_100g": 22.563,
         "carbs_per_100g": 0.2913,
         "fat_per_100g": 6.0849,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 53.0993
     },
     {
@@ -11513,7 +11513,7 @@
         "protein_per_100g": 24.331,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.9819,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 71.9615
     },
     {
@@ -11524,7 +11524,7 @@
         "protein_per_100g": 20.1954,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 14.9001,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 44.6452
     },
     {
@@ -11535,7 +11535,7 @@
         "protein_per_100g": 23.63,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.9889,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 45.403
     },
     {
@@ -11546,7 +11546,7 @@
         "protein_per_100g": 20.697,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 9.4562,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 39.459
     },
     {
@@ -11557,7 +11557,7 @@
         "protein_per_100g": 20.6735,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.7796,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.953
     },
     {
@@ -11568,7 +11568,7 @@
         "protein_per_100g": 19.623,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 15.3059,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 35.626
     },
     {
@@ -11579,7 +11579,7 @@
         "protein_per_100g": 16.3535,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 30.9701,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 41.785
     },
     {
@@ -11590,7 +11590,7 @@
         "protein_per_100g": 20.861,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 7.845,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 48.4935
     },
     {
@@ -11601,7 +11601,7 @@
         "protein_per_100g": 20.1,
         "carbs_per_100g": 0.4,
         "fat_per_100g": 6.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 23.0
     },
     {
@@ -11612,7 +11612,7 @@
         "protein_per_100g": 24.09,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.18,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 88.43
     },
     {
@@ -11623,7 +11623,7 @@
         "protein_per_100g": 10.395,
         "carbs_per_100g": 0.375,
         "fat_per_100g": 0.47,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 192.24
     },
     {
@@ -11634,7 +11634,7 @@
         "protein_per_100g": 20.83,
         "carbs_per_100g": 0.14,
         "fat_per_100g": 1.57,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 59.65
     },
     {
@@ -11645,7 +11645,7 @@
         "protein_per_100g": 14.876,
         "carbs_per_100g": 0.5815,
         "fat_per_100g": 0.4614,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 117.032
     },
     {
@@ -11656,7 +11656,7 @@
         "protein_per_100g": 20.6176,
         "carbs_per_100g": 0.2659,
         "fat_per_100g": 7.1371,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.2403
     },
     {
@@ -11667,7 +11667,7 @@
         "protein_per_100g": 20.403,
         "carbs_per_100g": 1.6031,
         "fat_per_100g": 5.536,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 42.414
     },
     {
@@ -11678,7 +11678,7 @@
         "protein_per_100g": 20.415,
         "carbs_per_100g": 0.9421,
         "fat_per_100g": 5.026,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.4522
     },
     {
@@ -11689,7 +11689,7 @@
         "protein_per_100g": 17.267,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 16.652,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 73.1235
     },
     {
@@ -11700,7 +11700,7 @@
         "protein_per_100g": 21.314,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.22,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.21
     },
     {
@@ -11711,7 +11711,7 @@
         "protein_per_100g": 21.469,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.46,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 56.59
     },
     {
@@ -11722,7 +11722,7 @@
         "protein_per_100g": 21.055,
         "carbs_per_100g": 0.9479,
         "fat_per_100g": 5.23,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 59.138
     },
     {
@@ -11733,7 +11733,7 @@
         "protein_per_100g": 21.789,
         "carbs_per_100g": 0.2489,
         "fat_per_100g": 6.22,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 36.988
     },
     {
@@ -11744,7 +11744,7 @@
         "protein_per_100g": 21.229,
         "carbs_per_100g": 0.0244,
         "fat_per_100g": 8.753,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 27.007
     },
     {
@@ -11755,7 +11755,7 @@
         "protein_per_100g": 20.64,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 7.3967,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.4533
     },
     {
@@ -11766,7 +11766,7 @@
         "protein_per_100g": 21.98,
         "carbs_per_100g": 0.19,
         "fat_per_100g": 0.07,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 53.81
     },
     {
@@ -11777,7 +11777,7 @@
         "protein_per_100g": 20.63,
         "carbs_per_100g": 0.3121,
         "fat_per_100g": 0.32,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 78.84
     },
     {
@@ -11788,7 +11788,7 @@
         "protein_per_100g": 22.35,
         "carbs_per_100g": 0.15,
         "fat_per_100g": 0.25,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.5
     },
     {
@@ -11799,7 +11799,7 @@
         "protein_per_100g": 19.51,
         "carbs_per_100g": 1.26,
         "fat_per_100g": 0.15,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.89
     },
     {
@@ -11810,7 +11810,7 @@
         "protein_per_100g": 18.512,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.5314,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 120.609
     },
     {
@@ -11821,7 +11821,7 @@
         "protein_per_100g": 17.616,
         "carbs_per_100g": 0.9618,
         "fat_per_100g": 1.429,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.763
     },
     {
@@ -11832,7 +11832,7 @@
         "protein_per_100g": 18.28,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.22,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 67.3
     },
     {
@@ -11843,7 +11843,7 @@
         "protein_per_100g": 18.4,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 145.0
     },
     {
@@ -11854,7 +11854,7 @@
         "protein_per_100g": 17.69,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 104.99
     },
     {
@@ -11865,7 +11865,7 @@
         "protein_per_100g": 20.571,
         "carbs_per_100g": 0.1486,
         "fat_per_100g": 1.1584,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 48.2306
     },
     {
@@ -11876,7 +11876,7 @@
         "protein_per_100g": 19.6,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.0
     },
     {
@@ -11887,7 +11887,7 @@
         "protein_per_100g": 19.8504,
         "carbs_per_100g": 0.8831,
         "fat_per_100g": 1.458,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 61.5287
     },
     {
@@ -11898,7 +11898,7 @@
         "protein_per_100g": 20.14,
         "carbs_per_100g": 1.9139,
         "fat_per_100g": 0.976,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 44.115
     },
     {
@@ -11909,7 +11909,7 @@
         "protein_per_100g": 19.992,
         "carbs_per_100g": 0.5122,
         "fat_per_100g": 1.594,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 64.9345
     },
     {
@@ -11920,7 +11920,7 @@
         "protein_per_100g": 18.968,
         "carbs_per_100g": 1.4975,
         "fat_per_100g": 1.59,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 56.924
     },
     {
@@ -11931,7 +11931,7 @@
         "protein_per_100g": 20.534,
         "carbs_per_100g": 0.0894,
         "fat_per_100g": 1.27,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.74
     },
     {
@@ -11942,7 +11942,7 @@
         "protein_per_100g": 19.618,
         "carbs_per_100g": 0.4023,
         "fat_per_100g": 1.86,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 77.93
     },
     {
@@ -11953,7 +11953,7 @@
         "protein_per_100g": 19.2,
         "carbs_per_100g": 0.7678,
         "fat_per_100g": 3.2322,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.0
     },
     {
@@ -11964,7 +11964,7 @@
         "protein_per_100g": 17.7,
         "carbs_per_100g": 1.0,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.0
     },
     {
@@ -11975,7 +11975,7 @@
         "protein_per_100g": 21.3585,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 6.1657,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 68.6124
     },
     {
@@ -11986,7 +11986,7 @@
         "protein_per_100g": 17.678,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.5318,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.565
     },
     {
@@ -11997,7 +11997,7 @@
         "protein_per_100g": 19.933,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.7627,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 70.279
     },
     {
@@ -12008,7 +12008,7 @@
         "protein_per_100g": 20.927,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.4595,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 45.8065
     },
     {
@@ -12019,7 +12019,7 @@
         "protein_per_100g": 19.3,
         "carbs_per_100g": 0.5,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 47.0
     },
     {
@@ -12030,7 +12030,7 @@
         "protein_per_100g": 22.554,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.8189,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 44.613
     },
     {
@@ -12041,7 +12041,7 @@
         "protein_per_100g": 20.181,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.4768,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 90.984
     },
     {
@@ -12063,7 +12063,7 @@
         "protein_per_100g": 18.801,
         "carbs_per_100g": 0.9202,
         "fat_per_100g": 0.1566,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 156.803
     },
     {
@@ -12074,7 +12074,7 @@
         "protein_per_100g": 19.39,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.11,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 58.97
     },
     {
@@ -12085,7 +12085,7 @@
         "protein_per_100g": 19.083,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.7456,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 78.821
     },
     {
@@ -12096,7 +12096,7 @@
         "protein_per_100g": 19.112,
         "carbs_per_100g": 0.2161,
         "fat_per_100g": 8.1762,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 118.325
     },
     {
@@ -12107,7 +12107,7 @@
         "protein_per_100g": 18.1,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 93.0
     },
     {
@@ -12118,7 +12118,7 @@
         "protein_per_100g": 19.25,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.3448,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 80.918
     },
     {
@@ -12129,7 +12129,7 @@
         "protein_per_100g": 20.684,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.6188,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 101.0996
     },
     {
@@ -12140,7 +12140,7 @@
         "protein_per_100g": 19.6,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.0
     },
     {
@@ -12151,7 +12151,7 @@
         "protein_per_100g": 20.6,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 119.0
     },
     {
@@ -12162,7 +12162,7 @@
         "protein_per_100g": 18.6,
         "carbs_per_100g": 0.6,
         "fat_per_100g": 1.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 96.0
     },
     {
@@ -12173,7 +12173,7 @@
         "protein_per_100g": 18.74,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.56,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 85.88
     },
     {
@@ -12184,7 +12184,7 @@
         "protein_per_100g": 19.2,
         "carbs_per_100g": 0.1,
         "fat_per_100g": 1.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.0
     },
     {
@@ -12195,7 +12195,7 @@
         "protein_per_100g": 17.237,
         "carbs_per_100g": 0.0378,
         "fat_per_100g": 0.4646,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 177.842
     },
     {
@@ -12206,7 +12206,7 @@
         "protein_per_100g": 21.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.0
     },
     {
@@ -12217,7 +12217,7 @@
         "protein_per_100g": 20.4,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 131.0
     },
     {
@@ -12228,7 +12228,7 @@
         "protein_per_100g": 19.317,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 20.1252,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.952
     },
     {
@@ -12239,7 +12239,7 @@
         "protein_per_100g": 21.8,
         "carbs_per_100g": 0.1,
         "fat_per_100g": 1.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.0
     },
     {
@@ -12250,7 +12250,7 @@
         "protein_per_100g": 21.2,
         "carbs_per_100g": 0.4,
         "fat_per_100g": 1.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 90.0
     },
     {
@@ -12261,7 +12261,7 @@
         "protein_per_100g": 23.01,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.0074,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 88.103
     },
     {
@@ -12272,7 +12272,7 @@
         "protein_per_100g": 20.271,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 11.669,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.435
     },
     {
@@ -12283,7 +12283,7 @@
         "protein_per_100g": 17.5,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 36.0
     },
     {
@@ -12294,7 +12294,7 @@
         "protein_per_100g": 21.89,
         "carbs_per_100g": 0.23,
         "fat_per_100g": 2.39,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 40.94
     },
     {
@@ -12316,7 +12316,7 @@
         "protein_per_100g": 20.941,
         "carbs_per_100g": 2.0759,
         "fat_per_100g": 2.097,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 61.731
     },
     {
@@ -12327,7 +12327,7 @@
         "protein_per_100g": 22.77,
         "carbs_per_100g": 1.36,
         "fat_per_100g": 1.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 61.64
     },
     {
@@ -12338,7 +12338,7 @@
         "protein_per_100g": 20.4,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.7825,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 114.0
     },
     {
@@ -12349,7 +12349,7 @@
         "protein_per_100g": 23.9,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 130.0
     },
     {
@@ -12360,7 +12360,7 @@
         "protein_per_100g": 24.0125,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.282,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.2585
     },
     {
@@ -12371,7 +12371,7 @@
         "protein_per_100g": 22.6,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.0
     },
     {
@@ -12382,7 +12382,7 @@
         "protein_per_100g": 20.25,
         "carbs_per_100g": 0.2,
         "fat_per_100g": 2.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 108.0
     },
     {
@@ -12393,7 +12393,7 @@
         "protein_per_100g": 22.4,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 40.0
     },
     {
@@ -12404,7 +12404,7 @@
         "protein_per_100g": 21.133,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.7147,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 74.605
     },
     {
@@ -12415,7 +12415,7 @@
         "protein_per_100g": 21.08,
         "carbs_per_100g": 0.48,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 56.57
     },
     {
@@ -12426,7 +12426,7 @@
         "protein_per_100g": 20.4,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 91.0
     },
     {
@@ -12437,7 +12437,7 @@
         "protein_per_100g": 19.842,
         "carbs_per_100g": 0.038,
         "fat_per_100g": 0.28,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 62.44
     },
     {
@@ -12448,7 +12448,7 @@
         "protein_per_100g": 21.997,
         "carbs_per_100g": 0.9059,
         "fat_per_100g": 0.8154,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.374
     },
     {
@@ -12459,7 +12459,7 @@
         "protein_per_100g": 20.21,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 95.5
     },
     {
@@ -12470,7 +12470,7 @@
         "protein_per_100g": 20.7,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 45.0
     },
     {
@@ -12481,7 +12481,7 @@
         "protein_per_100g": 18.71,
         "carbs_per_100g": 0.27,
         "fat_per_100g": 0.05,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 81.68
     },
     {
@@ -12492,7 +12492,7 @@
         "protein_per_100g": 19.944,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.6529,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 75.185
     },
     {
@@ -12503,7 +12503,7 @@
         "protein_per_100g": 18.2,
         "carbs_per_100g": 0.1,
         "fat_per_100g": 2.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 76.0
     },
     {
@@ -12514,7 +12514,7 @@
         "protein_per_100g": 19.0,
         "carbs_per_100g": 0.6,
         "fat_per_100g": 5.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 58.0
     },
     {
@@ -12525,7 +12525,7 @@
         "protein_per_100g": 20.58,
         "carbs_per_100g": 0.387,
         "fat_per_100g": 1.18,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 73.27
     },
     {
@@ -12536,7 +12536,7 @@
         "protein_per_100g": 19.5,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 74.0
     },
     {
@@ -12547,7 +12547,7 @@
         "protein_per_100g": 20.9,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 103.0
     },
     {
@@ -12558,7 +12558,7 @@
         "protein_per_100g": 22.689,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.4361,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 86.697
     },
     {
@@ -12569,7 +12569,7 @@
         "protein_per_100g": 21.7,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.95,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 89.5
     },
     {
@@ -12591,7 +12591,7 @@
         "protein_per_100g": 18.861,
         "carbs_per_100g": 0.0051,
         "fat_per_100g": 4.786,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 64.505
     },
     {
@@ -12602,7 +12602,7 @@
         "protein_per_100g": 20.5763,
         "carbs_per_100g": 0.1747,
         "fat_per_100g": 2.4653,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 59.7487
     },
     {
@@ -12613,7 +12613,7 @@
         "protein_per_100g": 20.112,
         "carbs_per_100g": 0.7276,
         "fat_per_100g": 1.568,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.228
     },
     {
@@ -12624,7 +12624,7 @@
         "protein_per_100g": 20.801,
         "carbs_per_100g": 0.7257,
         "fat_per_100g": 1.308,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.6329
     },
     {
@@ -12635,7 +12635,7 @@
         "protein_per_100g": 20.02,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.139,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 64.0466
     },
     {
@@ -12646,7 +12646,7 @@
         "protein_per_100g": 20.584,
         "carbs_per_100g": 1.672,
         "fat_per_100g": 9.767,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.8249
     },
     {
@@ -12657,7 +12657,7 @@
         "protein_per_100g": 21.6,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.0
     },
     {
@@ -12668,7 +12668,7 @@
         "protein_per_100g": 20.341,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.01,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 65.76
     },
     {
@@ -12679,7 +12679,7 @@
         "protein_per_100g": 19.221,
         "carbs_per_100g": 0.5923,
         "fat_per_100g": 6.01,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 70.23
     },
     {
@@ -12690,7 +12690,7 @@
         "protein_per_100g": 20.287,
         "carbs_per_100g": 0.5781,
         "fat_per_100g": 5.506,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 45.8414
     },
     {
@@ -12701,7 +12701,7 @@
         "protein_per_100g": 19.5,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 9.0128,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 66.0
     },
     {
@@ -12712,7 +12712,7 @@
         "protein_per_100g": 18.9695,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 7.1957,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 69.0846
     },
     {
@@ -12723,7 +12723,7 @@
         "protein_per_100g": 16.78,
         "carbs_per_100g": 0.1612,
         "fat_per_100g": 7.812,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 39.8452
     },
     {
@@ -12734,7 +12734,7 @@
         "protein_per_100g": 20.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 92.0
     },
     {
@@ -12745,7 +12745,7 @@
         "protein_per_100g": 19.36,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.93,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 76.37
     },
     {
@@ -12756,7 +12756,7 @@
         "protein_per_100g": 18.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 85.0
     },
     {
@@ -12767,7 +12767,7 @@
         "protein_per_100g": 19.701,
         "carbs_per_100g": 0.8861,
         "fat_per_100g": 1.1594,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 70.9798
     },
     {
@@ -12778,7 +12778,7 @@
         "protein_per_100g": 19.42,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.67,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 71.18
     },
     {
@@ -12789,7 +12789,7 @@
         "protein_per_100g": 17.93,
         "carbs_per_100g": 1.24,
         "fat_per_100g": 8.04,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.8
     },
     {
@@ -12800,7 +12800,7 @@
         "protein_per_100g": 23.312,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.4521,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.898
     },
     {
@@ -12811,7 +12811,7 @@
         "protein_per_100g": 18.4,
         "carbs_per_100g": 0.3,
         "fat_per_100g": 2.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 78.0
     },
     {
@@ -12822,7 +12822,7 @@
         "protein_per_100g": 18.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.0
     },
     {
@@ -12833,7 +12833,7 @@
         "protein_per_100g": 21.945,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.35,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 71.15
     },
     {
@@ -12844,7 +12844,7 @@
         "protein_per_100g": 19.5,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 8.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.0
     },
     {
@@ -12855,7 +12855,7 @@
         "protein_per_100g": 19.79,
         "carbs_per_100g": 0.63,
         "fat_per_100g": 3.44,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 71.04
     },
     {
@@ -12866,7 +12866,7 @@
         "protein_per_100g": 20.356,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.884,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 62.2255
     },
     {
@@ -12877,7 +12877,7 @@
         "protein_per_100g": 19.425,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.66,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 41.645
     },
     {
@@ -12899,7 +12899,7 @@
         "protein_per_100g": 17.665,
         "carbs_per_100g": 1.0753,
         "fat_per_100g": 4.106,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.1328
     },
     {
@@ -12910,7 +12910,7 @@
         "protein_per_100g": 18.268,
         "carbs_per_100g": 1.2726,
         "fat_per_100g": 3.3084,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 67.7792
     },
     {
@@ -12921,7 +12921,7 @@
         "protein_per_100g": 18.1545,
         "carbs_per_100g": 2.5148,
         "fat_per_100g": 3.5839,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.0712
     },
     {
@@ -12943,7 +12943,7 @@
         "protein_per_100g": 23.4255,
         "carbs_per_100g": 1.3238,
         "fat_per_100g": 3.3162,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 33.9652
     },
     {
@@ -12954,7 +12954,7 @@
         "protein_per_100g": 23.1,
         "carbs_per_100g": 1.9415,
         "fat_per_100g": 6.8564,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 67.3044
     },
     {
@@ -12965,7 +12965,7 @@
         "protein_per_100g": 19.6635,
         "carbs_per_100g": 1.773,
         "fat_per_100g": 3.0057,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 47.7656
     },
     {
@@ -12976,7 +12976,7 @@
         "protein_per_100g": 22.958,
         "carbs_per_100g": 2.0858,
         "fat_per_100g": 4.0087,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 53.8324
     },
     {
@@ -12987,7 +12987,7 @@
         "protein_per_100g": 21.277,
         "carbs_per_100g": 1.4974,
         "fat_per_100g": 3.9685,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.5878
     },
     {
@@ -12998,7 +12998,7 @@
         "protein_per_100g": 24.583,
         "carbs_per_100g": 2.5167,
         "fat_per_100g": 4.1253,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 65.4641
     },
     {
@@ -13009,7 +13009,7 @@
         "protein_per_100g": 19.2995,
         "carbs_per_100g": 2.1751,
         "fat_per_100g": 3.285,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 58.8712
     },
     {
@@ -13020,7 +13020,7 @@
         "protein_per_100g": 24.871,
         "carbs_per_100g": 1.3955,
         "fat_per_100g": 3.7412,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 85.3654
     },
     {
@@ -13031,7 +13031,7 @@
         "protein_per_100g": 0.9085,
         "carbs_per_100g": 0.0368,
         "fat_per_100g": 0.1781,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 12.514
     },
     {
@@ -13042,7 +13042,7 @@
         "protein_per_100g": 19.512,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.16,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 91.3932
     },
     {
@@ -13053,7 +13053,7 @@
         "protein_per_100g": 17.345,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.42,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 138.04
     },
     {
@@ -13064,7 +13064,7 @@
         "protein_per_100g": 17.9,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 126.0
     },
     {
@@ -13075,7 +13075,7 @@
         "protein_per_100g": 18.5,
         "carbs_per_100g": 0.2,
         "fat_per_100g": 0.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 65.0
     },
     {
@@ -13086,7 +13086,7 @@
         "protein_per_100g": 19.631,
         "carbs_per_100g": 0.168,
         "fat_per_100g": 0.04,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 85.57
     },
     {
@@ -13097,7 +13097,7 @@
         "protein_per_100g": 18.85,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.01,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 89.0
     },
     {
@@ -13108,7 +13108,7 @@
         "protein_per_100g": 20.147,
         "carbs_per_100g": 0.5898,
         "fat_per_100g": 0.05,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.53
     },
     {
@@ -13119,7 +13119,7 @@
         "protein_per_100g": 19.27,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.61,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 70.11
     },
     {
@@ -13130,7 +13130,7 @@
         "protein_per_100g": 19.94,
         "carbs_per_100g": 0.63,
         "fat_per_100g": 8.76,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.18
     },
     {
@@ -13141,7 +13141,7 @@
         "protein_per_100g": 19.05,
         "carbs_per_100g": 0.61,
         "fat_per_100g": 6.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 38.17
     },
     {
@@ -13152,7 +13152,7 @@
         "protein_per_100g": 20.392,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.6634,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 93.542
     },
     {
@@ -13163,7 +13163,7 @@
         "protein_per_100g": 18.96,
         "carbs_per_100g": 0.2891,
         "fat_per_100g": 1.35,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 56.8
     },
     {
@@ -13174,7 +13174,7 @@
         "protein_per_100g": 21.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 7.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 71.0
     },
     {
@@ -13185,7 +13185,7 @@
         "protein_per_100g": 17.258,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 22.0356,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 84.3982
     },
     {
@@ -13196,7 +13196,7 @@
         "protein_per_100g": 18.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 20.69,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 31.39
     },
     {
@@ -13207,7 +13207,7 @@
         "protein_per_100g": 19.6,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.0
     },
     {
@@ -13218,7 +13218,7 @@
         "protein_per_100g": 19.2,
         "carbs_per_100g": 0.0147,
         "fat_per_100g": 15.04,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 82.84
     },
     {
@@ -13229,7 +13229,7 @@
         "protein_per_100g": 23.94,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.14,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 41.31
     },
     {
@@ -13240,7 +13240,7 @@
         "protein_per_100g": 23.1,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.0
     },
     {
@@ -13251,7 +13251,7 @@
         "protein_per_100g": 23.9,
         "carbs_per_100g": 0.1042,
         "fat_per_100g": 3.9958,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 36.0
     },
     {
@@ -13262,7 +13262,7 @@
         "protein_per_100g": 19.44,
         "carbs_per_100g": 0.26,
         "fat_per_100g": 3.95,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.35
     },
     {
@@ -13273,7 +13273,7 @@
         "protein_per_100g": 18.6645,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 12.5383,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.3427
     },
     {
@@ -13284,7 +13284,7 @@
         "protein_per_100g": 19.33,
         "carbs_per_100g": 1.52,
         "fat_per_100g": 10.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.4
     },
     {
@@ -13295,7 +13295,7 @@
         "protein_per_100g": 20.2,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 10.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.0
     },
     {
@@ -13306,7 +13306,7 @@
         "protein_per_100g": 23.3,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 27.0
     },
     {
@@ -13317,7 +13317,7 @@
         "protein_per_100g": 14.36,
         "carbs_per_100g": 0.1804,
         "fat_per_100g": 39.43,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.53
     },
     {
@@ -13328,7 +13328,7 @@
         "protein_per_100g": 16.7,
         "carbs_per_100g": 0.0845,
         "fat_per_100g": 37.57,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 67.63
     },
     {
@@ -13339,7 +13339,7 @@
         "protein_per_100g": 17.16,
         "carbs_per_100g": 0.0708,
         "fat_per_100g": 53.43,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 75.42
     },
     {
@@ -13350,7 +13350,7 @@
         "protein_per_100g": 16.53,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 37.81,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.9
     },
     {
@@ -13361,7 +13361,7 @@
         "protein_per_100g": 19.05,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 34.83,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 82.11
     },
     {
@@ -13372,7 +13372,7 @@
         "protein_per_100g": 19.86,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 50.02,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 78.73
     },
     {
@@ -13383,7 +13383,7 @@
         "protein_per_100g": 20.17,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 31.81,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 82.18
     },
     {
@@ -13394,7 +13394,7 @@
         "protein_per_100g": 19.01,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 43.38,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 74.18
     },
     {
@@ -13405,7 +13405,7 @@
         "protein_per_100g": 14.9,
         "carbs_per_100g": 0.4381,
         "fat_per_100g": 34.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.23
     },
     {
@@ -13416,7 +13416,7 @@
         "protein_per_100g": 20.01,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 35.94,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 86.19
     },
     {
@@ -13427,7 +13427,7 @@
         "protein_per_100g": 14.64,
         "carbs_per_100g": 0.7209,
         "fat_per_100g": 36.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.36
     },
     {
@@ -13438,7 +13438,7 @@
         "protein_per_100g": 25.972,
         "carbs_per_100g": 0.8241,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 36.4887
     },
     {
@@ -13449,7 +13449,7 @@
         "protein_per_100g": 22.197,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.0971,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 130.653
     },
     {
@@ -13460,7 +13460,7 @@
         "protein_per_100g": 18.837,
         "carbs_per_100g": 0.102,
         "fat_per_100g": 1.565,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 161.7892
     },
     {
@@ -13471,7 +13471,7 @@
         "protein_per_100g": 17.779,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 8.715,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 178.6
     },
     {
@@ -13482,7 +13482,7 @@
         "protein_per_100g": 18.0233,
         "carbs_per_100g": 0.003,
         "fat_per_100g": 6.1096,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 267.82
     },
     {
@@ -13493,7 +13493,7 @@
         "protein_per_100g": 15.55,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 16.322,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.008
     },
     {
@@ -13504,7 +13504,7 @@
         "protein_per_100g": 17.7126,
         "carbs_per_100g": 0.1991,
         "fat_per_100g": 4.363,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 248.4389
     },
     {
@@ -13515,7 +13515,7 @@
         "protein_per_100g": 17.862,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 5.136,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 92.621
     },
     {
@@ -13526,7 +13526,7 @@
         "protein_per_100g": 17.554,
         "carbs_per_100g": 0.7332,
         "fat_per_100g": 4.957,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 64.8165
     },
     {
@@ -13537,7 +13537,7 @@
         "protein_per_100g": 16.375,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 3.908,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 344.6811
     },
     {
@@ -13548,7 +13548,7 @@
         "protein_per_100g": 17.692,
         "carbs_per_100g": 1.558,
         "fat_per_100g": 2.864,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 646.9127
     },
     {
@@ -13559,7 +13559,7 @@
         "protein_per_100g": 19.08,
         "carbs_per_100g": 0.1866,
         "fat_per_100g": 4.95,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 93.163
     },
     {
@@ -13570,7 +13570,7 @@
         "protein_per_100g": 16.8,
         "carbs_per_100g": 1.1039,
         "fat_per_100g": 5.7961,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 315.0
     },
     {
@@ -13581,7 +13581,7 @@
         "protein_per_100g": 18.3,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.0
     },
     {
@@ -13592,7 +13592,7 @@
         "protein_per_100g": 14.7,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 11.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 93.0
     },
     {
@@ -13603,7 +13603,7 @@
         "protein_per_100g": 13.203,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 16.0544,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 80.3894
     },
     {
@@ -13614,7 +13614,7 @@
         "protein_per_100g": 19.9,
         "carbs_per_100g": 0.3,
         "fat_per_100g": 0.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.0
     },
     {
@@ -13625,7 +13625,7 @@
         "protein_per_100g": 17.158,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.5974,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 181.179
     },
     {
@@ -13636,7 +13636,7 @@
         "protein_per_100g": 17.9,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 87.0
     },
     {
@@ -13647,7 +13647,7 @@
         "protein_per_100g": 17.8,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 134.0
     },
     {
@@ -13658,7 +13658,7 @@
         "protein_per_100g": 10.208,
         "carbs_per_100g": 0.692,
         "fat_per_100g": 0.4286,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.385
     },
     {
@@ -13669,7 +13669,7 @@
         "protein_per_100g": 12.1075,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 25.513,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 79.0315
     },
     {
@@ -13680,7 +13680,7 @@
         "protein_per_100g": 14.171,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.6755,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 285.2563
     },
     {
@@ -13691,7 +13691,7 @@
         "protein_per_100g": 18.8,
         "carbs_per_100g": 4.1302,
         "fat_per_100g": 21.7698,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 55.0
     },
     {
@@ -13724,7 +13724,7 @@
         "protein_per_100g": 14.503,
         "carbs_per_100g": 3.9245,
         "fat_per_100g": 2.4534,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 224.82
     },
     {
@@ -13735,7 +13735,7 @@
         "protein_per_100g": 16.052,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 19.5696,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 38.419
     },
     {
@@ -13746,7 +13746,7 @@
         "protein_per_100g": 43.5,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 7.0
     },
     {
@@ -13757,7 +13757,7 @@
         "protein_per_100g": 9.933,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.5601,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 34.73
     },
     {
@@ -13779,7 +13779,7 @@
         "protein_per_100g": 12.402,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.1618,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 47.255
     },
     {
@@ -13801,7 +13801,7 @@
         "protein_per_100g": 21.856,
         "carbs_per_100g": 3.6045,
         "fat_per_100g": 10.063,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 150.4896
     },
     {
@@ -13812,7 +13812,7 @@
         "protein_per_100g": 26.318,
         "carbs_per_100g": 3.1944,
         "fat_per_100g": 15.93,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 72.954
     },
     {
@@ -13823,7 +13823,7 @@
         "protein_per_100g": 23.496,
         "carbs_per_100g": 0.245,
         "fat_per_100g": 10.2198,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 89.001
     },
     {
@@ -13834,7 +13834,7 @@
         "protein_per_100g": 21.493,
         "carbs_per_100g": 0.6398,
         "fat_per_100g": 10.19,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 128.81
     },
     {
@@ -13845,7 +13845,7 @@
         "protein_per_100g": 17.274,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.67,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.916
     },
     {
@@ -13856,7 +13856,7 @@
         "protein_per_100g": 13.617,
         "carbs_per_100g": 1.9139,
         "fat_per_100g": 8.6122,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 188.375
     },
     {
@@ -13867,7 +13867,7 @@
         "protein_per_100g": 22.491,
         "carbs_per_100g": 2.894,
         "fat_per_100g": 0.38,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 291.62
     },
     {
@@ -13878,7 +13878,7 @@
         "protein_per_100g": 23.352,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.6735,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 35.4693
     },
     {
@@ -13889,7 +13889,7 @@
         "protein_per_100g": 69.2,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1753.0
     },
     {
@@ -13900,7 +13900,7 @@
         "protein_per_100g": 66.2917,
         "carbs_per_100g": 1.0648,
         "fat_per_100g": 7.8946,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 406.2059
     },
     {
@@ -13911,7 +13911,7 @@
         "protein_per_100g": 76.5,
         "carbs_per_100g": 2.6,
         "fat_per_100g": 6.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 433.0
     },
     {
@@ -13922,7 +13922,7 @@
         "protein_per_100g": 20.3,
         "carbs_per_100g": 0.2115,
         "fat_per_100g": 0.15,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 103.6
     },
     {
@@ -13933,7 +13933,7 @@
         "protein_per_100g": 19.94,
         "carbs_per_100g": 2.662,
         "fat_per_100g": 4.0839,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 562.3734
     },
     {
@@ -13944,7 +13944,7 @@
         "protein_per_100g": 17.72,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.31,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 456.74
     },
     {
@@ -13955,7 +13955,7 @@
         "protein_per_100g": 13.832,
         "carbs_per_100g": 0.7144,
         "fat_per_100g": 6.1333,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 461.583
     },
     {
@@ -13966,7 +13966,7 @@
         "protein_per_100g": 16.248,
         "carbs_per_100g": 1.9755,
         "fat_per_100g": 1.4615,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 565.916
     },
     {
@@ -13977,7 +13977,7 @@
         "protein_per_100g": 17.94,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.28,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 316.94
     },
     {
@@ -13988,7 +13988,7 @@
         "protein_per_100g": 19.3,
         "carbs_per_100g": 1.0,
         "fat_per_100g": 0.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 196.0
     },
     {
@@ -13999,7 +13999,7 @@
         "protein_per_100g": 21.2825,
         "carbs_per_100g": 0.3962,
         "fat_per_100g": 0.6559,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 286.9648
     },
     {
@@ -14010,7 +14010,7 @@
         "protein_per_100g": 21.632,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.5438,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 254.7485
     },
     {
@@ -14021,7 +14021,7 @@
         "protein_per_100g": 20.933,
         "carbs_per_100g": 1.8173,
         "fat_per_100g": 0.768,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 319.181
     },
     {
@@ -14043,7 +14043,7 @@
         "protein_per_100g": 22.325,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.5421,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 305.688
     },
     {
@@ -14054,7 +14054,7 @@
         "protein_per_100g": 21.39,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.5352,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 177.6445
     },
     {
@@ -14076,7 +14076,7 @@
         "protein_per_100g": 18.724,
         "carbs_per_100g": 0.566,
         "fat_per_100g": 0.22,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 293.5
     },
     {
@@ -14087,7 +14087,7 @@
         "protein_per_100g": 22.0,
         "carbs_per_100g": 1.0051,
         "fat_per_100g": 0.6949,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 150.0
     },
     {
@@ -14098,7 +14098,7 @@
         "protein_per_100g": 20.924,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.6495,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 135.318
     },
     {
@@ -14109,7 +14109,7 @@
         "protein_per_100g": 20.7,
         "carbs_per_100g": 0.58,
         "fat_per_100g": 0.41,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 341.13
     },
     {
@@ -14120,7 +14120,7 @@
         "protein_per_100g": 19.81,
         "carbs_per_100g": 0.62,
         "fat_per_100g": 0.34,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 270.16
     },
     {
@@ -14131,7 +14131,7 @@
         "protein_per_100g": 22.1,
         "carbs_per_100g": 0.6,
         "fat_per_100g": 0.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 207.0
     },
     {
@@ -14142,7 +14142,7 @@
         "protein_per_100g": 14.7,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.45,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 343.54
     },
     {
@@ -14153,7 +14153,7 @@
         "protein_per_100g": 21.5,
         "carbs_per_100g": 1.0,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 234.0
     },
     {
@@ -14164,7 +14164,7 @@
         "protein_per_100g": 17.895,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.3332,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 386.162
     },
     {
@@ -14175,7 +14175,7 @@
         "protein_per_100g": 19.642,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 1.4217,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 503.585
     },
     {
@@ -14186,7 +14186,7 @@
         "protein_per_100g": 52.557,
         "carbs_per_100g": 13.429,
         "fat_per_100g": 3.1342,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1345.2207
     },
     {
@@ -14197,7 +14197,7 @@
         "protein_per_100g": 8.842,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.239,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 764.7397
     },
     {
@@ -14208,7 +14208,7 @@
         "protein_per_100g": 11.879,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.108,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 251.5914
     },
     {
@@ -14219,7 +14219,7 @@
         "protein_per_100g": 9.464,
         "carbs_per_100g": 1.543,
         "fat_per_100g": 0.3281,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 596.3866
     },
     {
@@ -14230,7 +14230,7 @@
         "protein_per_100g": 16.275,
         "carbs_per_100g": 1.2765,
         "fat_per_100g": 0.4418,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 225.136
     },
     {
@@ -14241,7 +14241,7 @@
         "protein_per_100g": 9.682,
         "carbs_per_100g": 0.8956,
         "fat_per_100g": 0.2942,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 430.6451
     },
     {
@@ -14252,7 +14252,7 @@
         "protein_per_100g": 13.368,
         "carbs_per_100g": 0.3063,
         "fat_per_100g": 0.8174,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 356.956
     },
     {
@@ -14263,7 +14263,7 @@
         "protein_per_100g": 17.103,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.7243,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 279.129
     },
     {
@@ -14274,7 +14274,7 @@
         "protein_per_100g": 33.6,
         "carbs_per_100g": 2.7,
         "fat_per_100g": 1.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 4273.0
     },
     {
@@ -14285,7 +14285,7 @@
         "protein_per_100g": 57.1,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.2043,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 3186.0
     },
     {
@@ -14296,7 +14296,7 @@
         "protein_per_100g": 54.64,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 2.5969,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2553.322
     },
     {
@@ -14307,7 +14307,7 @@
         "protein_per_100g": 20.9,
         "carbs_per_100g": 6.5,
         "fat_per_100g": 3.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 309.0
     },
     {
@@ -14318,7 +14318,7 @@
         "protein_per_100g": 16.59,
         "carbs_per_100g": 2.76,
         "fat_per_100g": 0.11,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 342.96
     },
     {
@@ -14329,7 +14329,7 @@
         "protein_per_100g": 11.643,
         "carbs_per_100g": 1.1756,
         "fat_per_100g": 0.3229,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 591.4295
     },
     {
@@ -14340,7 +14340,7 @@
         "protein_per_100g": 8.991,
         "carbs_per_100g": 1.1801,
         "fat_per_100g": 0.3458,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 498.502
     },
     {
@@ -14351,7 +14351,7 @@
         "protein_per_100g": 9.3878,
         "carbs_per_100g": 4.2387,
         "fat_per_100g": 1.5737,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 148.3435
     },
     {
@@ -14362,7 +14362,7 @@
         "protein_per_100g": 8.9855,
         "carbs_per_100g": 1.7674,
         "fat_per_100g": 1.2173,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 193.817
     },
     {
@@ -14373,7 +14373,7 @@
         "protein_per_100g": 9.79,
         "carbs_per_100g": 6.71,
         "fat_per_100g": 1.93,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 102.87
     },
     {
@@ -14384,7 +14384,7 @@
         "protein_per_100g": 9.739,
         "carbs_per_100g": 3.105,
         "fat_per_100g": 1.5345,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 748.512
     },
     {
@@ -14395,7 +14395,7 @@
         "protein_per_100g": 13.7155,
         "carbs_per_100g": 2.3343,
         "fat_per_100g": 1.2247,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 283.234
     },
     {
@@ -14406,7 +14406,7 @@
         "protein_per_100g": 17.772,
         "carbs_per_100g": 2.6441,
         "fat_per_100g": 2.18,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 300.67
     },
     {
@@ -14417,7 +14417,7 @@
         "protein_per_100g": 43.651,
         "carbs_per_100g": 23.929,
         "fat_per_100g": 8.505,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 865.3704
     },
     {
@@ -14428,7 +14428,7 @@
         "protein_per_100g": 8.915,
         "carbs_per_100g": 5.365,
         "fat_per_100g": 1.64,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 35.69
     },
     {
@@ -14439,7 +14439,7 @@
         "protein_per_100g": 8.94,
         "carbs_per_100g": 9.7723,
         "fat_per_100g": 1.44,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 20.19
     },
     {
@@ -14450,7 +14450,7 @@
         "protein_per_100g": 4.38,
         "carbs_per_100g": 1.5142,
         "fat_per_100g": 0.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 773.79
     },
     {
@@ -14461,7 +14461,7 @@
         "protein_per_100g": 7.6105,
         "carbs_per_100g": 2.7132,
         "fat_per_100g": 0.4923,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 446.244
     },
     {
@@ -14472,7 +14472,7 @@
         "protein_per_100g": 9.184,
         "carbs_per_100g": 4.6406,
         "fat_per_100g": 1.0096,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 377.027
     },
     {
@@ -14483,7 +14483,7 @@
         "protein_per_100g": 7.52,
         "carbs_per_100g": 4.0743,
         "fat_per_100g": 0.5211,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 441.684
     },
     {
@@ -14494,7 +14494,7 @@
         "protein_per_100g": 8.738,
         "carbs_per_100g": 3.677,
         "fat_per_100g": 0.9608,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 760.042
     },
     {
@@ -14505,7 +14505,7 @@
         "protein_per_100g": 12.668,
         "carbs_per_100g": 1.676,
         "fat_per_100g": 0.3733,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 948.628
     },
     {
@@ -14516,7 +14516,7 @@
         "protein_per_100g": 53.7005,
         "carbs_per_100g": 10.8178,
         "fat_per_100g": 1.4349,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2751.212
     },
     {
@@ -14527,7 +14527,7 @@
         "protein_per_100g": 58.5,
         "carbs_per_100g": 15.5,
         "fat_per_100g": 0.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2424.0
     },
     {
@@ -14538,7 +14538,7 @@
         "protein_per_100g": 48.901,
         "carbs_per_100g": 6.1355,
         "fat_per_100g": 2.1697,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 3078.424
     },
     {
@@ -14549,7 +14549,7 @@
         "protein_per_100g": 41.0,
         "carbs_per_100g": 26.2,
         "fat_per_100g": 7.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1316.0
     },
     {
@@ -14560,7 +14560,7 @@
         "protein_per_100g": 12.1775,
         "carbs_per_100g": 3.6793,
         "fat_per_100g": 0.5759,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 68.0375
     },
     {
@@ -14571,7 +14571,7 @@
         "protein_per_100g": 13.85,
         "carbs_per_100g": 0.75,
         "fat_per_100g": 0.25,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 106.0
     },
     {
@@ -14582,7 +14582,7 @@
         "protein_per_100g": 10.505,
         "carbs_per_100g": 6.6085,
         "fat_per_100g": 0.9017,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 30.075
     },
     {
@@ -14593,7 +14593,7 @@
         "protein_per_100g": 13.0,
         "carbs_per_100g": 0.9,
         "fat_per_100g": 0.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 230.0
     },
     {
@@ -14604,7 +14604,7 @@
         "protein_per_100g": 12.439,
         "carbs_per_100g": 0.3703,
         "fat_per_100g": 1.9589,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.039
     },
     {
@@ -14615,7 +14615,7 @@
         "protein_per_100g": 11.283,
         "carbs_per_100g": 2.9877,
         "fat_per_100g": 0.23,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 239.0766
     },
     {
@@ -14626,7 +14626,7 @@
         "protein_per_100g": 16.0,
         "carbs_per_100g": 1.6,
         "fat_per_100g": 0.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 249.0
     },
     {
@@ -14637,7 +14637,7 @@
         "protein_per_100g": 14.978,
         "carbs_per_100g": 3.8178,
         "fat_per_100g": 1.828,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 374.07
     },
     {
@@ -14648,7 +14648,7 @@
         "protein_per_100g": 20.2,
         "carbs_per_100g": 2.3604,
         "fat_per_100g": 1.5329,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 211.401
     },
     {
@@ -14659,7 +14659,7 @@
         "protein_per_100g": 14.681,
         "carbs_per_100g": 0.8415,
         "fat_per_100g": 0.8062,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 399.6565
     },
     {
@@ -14670,7 +14670,7 @@
         "protein_per_100g": 19.9365,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.099,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 165.9947
     },
     {
@@ -14681,7 +14681,7 @@
         "protein_per_100g": 16.917,
         "carbs_per_100g": 3.5796,
         "fat_per_100g": 0.6535,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 372.0667
     },
     {
@@ -14692,7 +14692,7 @@
         "protein_per_100g": 21.535,
         "carbs_per_100g": 0.2805,
         "fat_per_100g": 0.291,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 166.1976
     },
     {
@@ -14703,7 +14703,7 @@
         "protein_per_100g": 8.877,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.258,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.6656
     },
     {
@@ -14714,7 +14714,7 @@
         "protein_per_100g": 15.0,
         "carbs_per_100g": 5.8,
         "fat_per_100g": 1.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 327.0
     },
     {
@@ -14725,7 +14725,7 @@
         "protein_per_100g": 15.7985,
         "carbs_per_100g": 9.5466,
         "fat_per_100g": 0.135,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 198.58
     },
     {
@@ -14736,7 +14736,7 @@
         "protein_per_100g": 16.714,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.6864,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 72.329
     },
     {
@@ -14747,7 +14747,7 @@
         "protein_per_100g": 9.788,
         "carbs_per_100g": 6.444,
         "fat_per_100g": 0.188,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 428.3986
     },
     {
@@ -14758,7 +14758,7 @@
         "protein_per_100g": 53.202,
         "carbs_per_100g": 4.6951,
         "fat_per_100g": 2.1319,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1378.2428
     },
     {
@@ -14769,7 +14769,7 @@
         "protein_per_100g": 7.399,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.0898,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.926
     },
     {
@@ -14780,7 +14780,7 @@
         "protein_per_100g": 8.234,
         "carbs_per_100g": 0.8001,
         "fat_per_100g": 0.07,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.61
     },
     {
@@ -14791,7 +14791,7 @@
         "protein_per_100g": 11.961,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.0496,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 85.618
     },
     {
@@ -14802,7 +14802,7 @@
         "protein_per_100g": 7.462,
         "carbs_per_100g": 0.0318,
         "fat_per_100g": 0.095,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 86.768
     },
     {
@@ -14813,7 +14813,7 @@
         "protein_per_100g": 6.497,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.1136,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 64.019
     },
     {
@@ -14824,7 +14824,7 @@
         "protein_per_100g": 4.388,
         "carbs_per_100g": 2.221,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 8126.86
     },
     {
@@ -14857,7 +14857,7 @@
         "protein_per_100g": 12.4617,
         "carbs_per_100g": 1.9907,
         "fat_per_100g": 8.5935,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 146.9768
     },
     {
@@ -14868,7 +14868,7 @@
         "protein_per_100g": 12.9475,
         "carbs_per_100g": 1.6916,
         "fat_per_100g": 8.0534,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 140.419
     },
     {
@@ -14890,7 +14890,7 @@
         "protein_per_100g": 12.66,
         "carbs_per_100g": 2.4437,
         "fat_per_100g": 11.5904,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 119.599
     },
     {
@@ -14901,7 +14901,7 @@
         "protein_per_100g": 12.537,
         "carbs_per_100g": 1.8487,
         "fat_per_100g": 8.568,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 140.6338
     },
     {
@@ -14912,7 +14912,7 @@
         "protein_per_100g": 12.431,
         "carbs_per_100g": 2.8026,
         "fat_per_100g": 9.41,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 137.11
     },
     {
@@ -14923,7 +14923,7 @@
         "protein_per_100g": 13.02,
         "carbs_per_100g": 0.8307,
         "fat_per_100g": 8.41,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 161.16
     },
     {
@@ -14934,7 +14934,7 @@
         "protein_per_100g": 12.279,
         "carbs_per_100g": 1.3608,
         "fat_per_100g": 9.152,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 114.745
     },
     {
@@ -14945,7 +14945,7 @@
         "protein_per_100g": 12.1,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 9.01,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 151.31
     },
     {
@@ -14956,7 +14956,7 @@
         "protein_per_100g": 12.786,
         "carbs_per_100g": 1.4127,
         "fat_per_100g": 9.69,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 139.48
     },
     {
@@ -14967,7 +14967,7 @@
         "protein_per_100g": 11.171,
         "carbs_per_100g": 0.5265,
         "fat_per_100g": 0.1456,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 183.4866
     },
     {
@@ -14978,7 +14978,7 @@
         "protein_per_100g": 10.705,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.1011,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 153.5631
     },
     {
@@ -14989,7 +14989,7 @@
         "protein_per_100g": 11.637,
         "carbs_per_100g": 1.1781,
         "fat_per_100g": 0.19,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 213.41
     },
     {
@@ -15000,7 +15000,7 @@
         "protein_per_100g": 10.643,
         "carbs_per_100g": 1.6638,
         "fat_per_100g": 0.0495,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 183.734
     },
     {
@@ -15011,7 +15011,7 @@
         "protein_per_100g": 15.2217,
         "carbs_per_100g": 3.5698,
         "fat_per_100g": 26.7878,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 56.3197
     },
     {
@@ -15022,7 +15022,7 @@
         "protein_per_100g": 15.9843,
         "carbs_per_100g": 1.561,
         "fat_per_100g": 28.8655,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.4994
     },
     {
@@ -15033,7 +15033,7 @@
         "protein_per_100g": 14.459,
         "carbs_per_100g": 5.5786,
         "fat_per_100g": 24.71,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 60.14
     },
     {
@@ -15044,7 +15044,7 @@
         "protein_per_100g": 15.51,
         "carbs_per_100g": 1.4401,
         "fat_per_100g": 30.604,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.717
     },
     {
@@ -15055,7 +15055,7 @@
         "protein_per_100g": 16.236,
         "carbs_per_100g": 5.3503,
         "fat_per_100g": 27.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.07
     },
     {
@@ -15066,7 +15066,7 @@
         "protein_per_100g": 12.945,
         "carbs_per_100g": 3.7843,
         "fat_per_100g": 7.8417,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 493.758
     },
     {
@@ -15077,7 +15077,7 @@
         "protein_per_100g": 14.001,
         "carbs_per_100g": 1.7098,
         "fat_per_100g": 9.2211,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 123.7653
     },
     {
@@ -15088,7 +15088,7 @@
         "protein_per_100g": 13.557,
         "carbs_per_100g": 1.5401,
         "fat_per_100g": 0.1851,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 170.0407
     },
     {
@@ -15099,7 +15099,7 @@
         "protein_per_100g": 15.544,
         "carbs_per_100g": 2.9185,
         "fat_per_100g": 30.4643,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.2446
     },
     {
@@ -15110,7 +15110,7 @@
         "protein_per_100g": 13.6533,
         "carbs_per_100g": 2.2218,
         "fat_per_100g": 9.0607,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 443.9512
     },
     {
@@ -15121,7 +15121,7 @@
         "protein_per_100g": 13.522,
         "carbs_per_100g": 3.5119,
         "fat_per_100g": 8.7314,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 429.5443
     },
     {
@@ -15132,7 +15132,7 @@
         "protein_per_100g": 13.7846,
         "carbs_per_100g": 0.9316,
         "fat_per_100g": 9.39,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 458.358
     },
     {
@@ -15143,7 +15143,7 @@
         "protein_per_100g": 12.932,
         "carbs_per_100g": 0.3891,
         "fat_per_100g": 0.1265,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 555.3522
     },
     {
@@ -15154,7 +15154,7 @@
         "protein_per_100g": 15.7065,
         "carbs_per_100g": 2.1592,
         "fat_per_100g": 30.2935,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 239.4033
     },
     {
@@ -15165,7 +15165,7 @@
         "protein_per_100g": 12.496,
         "carbs_per_100g": 2.9538,
         "fat_per_100g": 8.0598,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 599.1474
     },
     {
@@ -15176,7 +15176,7 @@
         "protein_per_100g": 12.757,
         "carbs_per_100g": 3.5682,
         "fat_per_100g": 8.5105,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 615.5333
     },
     {
@@ -15187,7 +15187,7 @@
         "protein_per_100g": 12.235,
         "carbs_per_100g": 2.3393,
         "fat_per_100g": 7.609,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 582.7615
     },
     {
@@ -15198,7 +15198,7 @@
         "protein_per_100g": 16.4022,
         "carbs_per_100g": 4.6187,
         "fat_per_100g": 11.0762,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1155.9177
     },
     {
@@ -15209,7 +15209,7 @@
         "protein_per_100g": 15.6803,
         "carbs_per_100g": 6.3581,
         "fat_per_100g": 11.4042,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 582.563
     },
     {
@@ -15220,7 +15220,7 @@
         "protein_per_100g": 16.579,
         "carbs_per_100g": 3.1336,
         "fat_per_100g": 11.0665,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1277.887
     },
     {
@@ -15231,7 +15231,7 @@
         "protein_per_100g": 16.9473,
         "carbs_per_100g": 4.3645,
         "fat_per_100g": 10.758,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1607.303
     },
     {
@@ -15242,7 +15242,7 @@
         "protein_per_100g": 16.6855,
         "carbs_per_100g": 4.5508,
         "fat_per_100g": 0.1959,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1794.3959
     },
     {
@@ -15253,7 +15253,7 @@
         "protein_per_100g": 16.64,
         "carbs_per_100g": 3.9053,
         "fat_per_100g": 0.1962,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1623.1574
     },
     {
@@ -15264,7 +15264,7 @@
         "protein_per_100g": 16.731,
         "carbs_per_100g": 5.1962,
         "fat_per_100g": 0.1955,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1965.6344
     },
     {
@@ -15275,7 +15275,7 @@
         "protein_per_100g": 17.0285,
         "carbs_per_100g": 1.9468,
         "fat_per_100g": 33.6838,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 697.487
     },
     {
@@ -15286,7 +15286,7 @@
         "protein_per_100g": 16.6395,
         "carbs_per_100g": 1.3258,
         "fat_per_100g": 33.7644,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 562.8427
     },
     {
@@ -15297,7 +15297,7 @@
         "protein_per_100g": 17.4175,
         "carbs_per_100g": 2.5678,
         "fat_per_100g": 33.6031,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 832.1312
     },
     {
@@ -15308,7 +15308,7 @@
         "protein_per_100g": 26.6,
         "carbs_per_100g": 5.9,
         "fat_per_100g": 17.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 766.0
     },
     {
@@ -15319,7 +15319,7 @@
         "protein_per_100g": 11.584,
         "carbs_per_100g": 0.8217,
         "fat_per_100g": 10.6932,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 92.4088
     },
     {
@@ -15330,7 +15330,7 @@
         "protein_per_100g": 13.9765,
         "carbs_per_100g": 1.4475,
         "fat_per_100g": 11.1942,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 151.3373
     },
     {
@@ -15341,7 +15341,7 @@
         "protein_per_100g": 13.0145,
         "carbs_per_100g": 1.6273,
         "fat_per_100g": 14.8524,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 140.4024
     },
     {
@@ -15352,7 +15352,7 @@
         "protein_per_100g": 13.506,
         "carbs_per_100g": 4.8791,
         "fat_per_100g": 11.2689,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 145.3315
     },
     {
@@ -15363,7 +15363,7 @@
         "protein_per_100g": 12.9025,
         "carbs_per_100g": 4.5836,
         "fat_per_100g": 16.0664,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 125.8635
     },
     {
@@ -15374,7 +15374,7 @@
         "protein_per_100g": 5.2615,
         "carbs_per_100g": 2.1604,
         "fat_per_100g": 4.6017,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 151.0777
     },
     {
@@ -15385,7 +15385,7 @@
         "protein_per_100g": 3.58,
         "carbs_per_100g": 3.373,
         "fat_per_100g": 1.77,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 326.56
     },
     {
@@ -15396,7 +15396,7 @@
         "protein_per_100g": 6.3665,
         "carbs_per_100g": 1.7743,
         "fat_per_100g": 6.0384,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 65.0659
     },
     {
@@ -15407,7 +15407,7 @@
         "protein_per_100g": 5.838,
         "carbs_per_100g": 1.334,
         "fat_per_100g": 5.9968,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 61.6071
     },
     {
@@ -15418,7 +15418,7 @@
         "protein_per_100g": 13.147,
         "carbs_per_100g": 0.211,
         "fat_per_100g": 14.3789,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 148.733
     },
     {
@@ -15429,7 +15429,7 @@
         "protein_per_100g": 13.14,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 15.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 129.18
     },
     {
@@ -15440,7 +15440,7 @@
         "protein_per_100g": 10.8,
         "carbs_per_100g": 1.4,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 163.0
     },
     {
@@ -15451,7 +15451,7 @@
         "protein_per_100g": 15.8,
         "carbs_per_100g": 2.0,
         "fat_per_100g": 30.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 50.0
     },
     {
@@ -15462,7 +15462,7 @@
         "protein_per_100g": 12.7715,
         "carbs_per_100g": 2.6687,
         "fat_per_100g": 11.3539,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 590.06
     },
     {
@@ -15473,7 +15473,7 @@
         "protein_per_100g": 13.3108,
         "carbs_per_100g": 1.0546,
         "fat_per_100g": 14.1293,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1672.2265
     },
     {
@@ -15484,7 +15484,7 @@
         "protein_per_100g": 12.492,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 14.71,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1681.36
     },
     {
@@ -15495,7 +15495,7 @@
         "protein_per_100g": 13.71,
         "carbs_per_100g": 0.801,
         "fat_per_100g": 13.8417,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2068.0815
     },
     {
@@ -15506,7 +15506,7 @@
         "protein_per_100g": 13.7305,
         "carbs_per_100g": 3.5234,
         "fat_per_100g": 13.8363,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1267.238
     },
     {
@@ -15517,7 +15517,7 @@
         "protein_per_100g": 23.62,
         "carbs_per_100g": 1.273,
         "fat_per_100g": 47.6391,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 396.5015
     },
     {
@@ -15528,7 +15528,7 @@
         "protein_per_100g": 12.666,
         "carbs_per_100g": 1.1517,
         "fat_per_100g": 12.9681,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 142.193
     },
     {
@@ -15539,7 +15539,7 @@
         "protein_per_100g": 12.301,
         "carbs_per_100g": 0.0476,
         "fat_per_100g": 12.1036,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 89.1257
     },
     {
@@ -15550,7 +15550,7 @@
         "protein_per_100g": 13.8085,
         "carbs_per_100g": 1.7759,
         "fat_per_100g": 10.891,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 790.655
     },
     {
@@ -15561,7 +15561,7 @@
         "protein_per_100g": 13.73,
         "carbs_per_100g": 1.9173,
         "fat_per_100g": 12.2926,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1809.831
     },
     {
@@ -15572,7 +15572,7 @@
         "protein_per_100g": 16.197,
         "carbs_per_100g": 11.1139,
         "fat_per_100g": 14.3321,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 314.792
     },
     {
@@ -15583,7 +15583,7 @@
         "protein_per_100g": 28.82,
         "carbs_per_100g": 20.37,
         "fat_per_100g": 26.93,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 193.63
     },
     {
@@ -15594,7 +15594,7 @@
         "protein_per_100g": 10.18,
         "carbs_per_100g": 2.535,
         "fat_per_100g": 5.74,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 142.99
     },
     {
@@ -15605,7 +15605,7 @@
         "protein_per_100g": 10.0,
         "carbs_per_100g": 3.194,
         "fat_per_100g": 14.99,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 133.7
     },
     {
@@ -15616,7 +15616,7 @@
         "protein_per_100g": 3.191,
         "carbs_per_100g": 6.147,
         "fat_per_100g": 3.9956,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 38.82
     },
     {
@@ -15638,7 +15638,7 @@
         "protein_per_100g": 2.926,
         "carbs_per_100g": 4.691,
         "fat_per_100g": 3.61,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 39.77
     },
     {
@@ -15649,7 +15649,7 @@
         "protein_per_100g": 2.936,
         "carbs_per_100g": 4.6472,
         "fat_per_100g": 3.5582,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 34.59
     },
     {
@@ -15660,7 +15660,7 @@
         "protein_per_100g": 3.187,
         "carbs_per_100g": 4.5756,
         "fat_per_100g": 3.5687,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 35.976
     },
     {
@@ -15671,7 +15671,7 @@
         "protein_per_100g": 2.78,
         "carbs_per_100g": 5.294,
         "fat_per_100g": 3.5816,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 32.865
     },
     {
@@ -15682,7 +15682,7 @@
         "protein_per_100g": 3.04,
         "carbs_per_100g": 4.7808,
         "fat_per_100g": 3.7049,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 35.7895
     },
     {
@@ -15693,7 +15693,7 @@
         "protein_per_100g": 3.075,
         "carbs_per_100g": 4.625,
         "fat_per_100g": 3.5,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.75
     },
     {
@@ -15704,7 +15704,7 @@
         "protein_per_100g": 3.225,
         "carbs_per_100g": 5.2382,
         "fat_per_100g": 3.435,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 41.7
     },
     {
@@ -15726,7 +15726,7 @@
         "protein_per_100g": 3.1333,
         "carbs_per_100g": 4.8333,
         "fat_per_100g": 1.8667,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.3333
     },
     {
@@ -15748,7 +15748,7 @@
         "protein_per_100g": 3.156,
         "carbs_per_100g": 5.1732,
         "fat_per_100g": 3.9352,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 36.113
     },
     {
@@ -15759,7 +15759,7 @@
         "protein_per_100g": 3.2,
         "carbs_per_100g": 5.0712,
         "fat_per_100g": 4.08,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.78
     },
     {
@@ -15770,7 +15770,7 @@
         "protein_per_100g": 2.02,
         "carbs_per_100g": 8.5842,
         "fat_per_100g": 1.99,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 36.54
     },
     {
@@ -15781,7 +15781,7 @@
         "protein_per_100g": 3.0,
         "carbs_per_100g": 4.1619,
         "fat_per_100g": 1.3381,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.0
     },
     {
@@ -15792,7 +15792,7 @@
         "protein_per_100g": 3.138,
         "carbs_per_100g": 5.4598,
         "fat_per_100g": 1.3267,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 32.902
     },
     {
@@ -15803,7 +15803,7 @@
         "protein_per_100g": 3.53,
         "carbs_per_100g": 6.2589,
         "fat_per_100g": 0.33,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.21
     },
     {
@@ -15814,7 +15814,7 @@
         "protein_per_100g": 3.1145,
         "carbs_per_100g": 5.1586,
         "fat_per_100g": 0.3669,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 32.7025
     },
     {
@@ -15825,7 +15825,7 @@
         "protein_per_100g": 4.15,
         "carbs_per_100g": 5.5864,
         "fat_per_100g": 0.17,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 59.46
     },
     {
@@ -15858,7 +15858,7 @@
         "protein_per_100g": 1.6,
         "carbs_per_100g": 8.4381,
         "fat_per_100g": 1.5619,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 39.0
     },
     {
@@ -15869,7 +15869,7 @@
         "protein_per_100g": 2.3,
         "carbs_per_100g": 8.942,
         "fat_per_100g": 2.558,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.0
     },
     {
@@ -15880,7 +15880,7 @@
         "protein_per_100g": 2.0,
         "carbs_per_100g": 8.5739,
         "fat_per_100g": 1.9261,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 30.0
     },
     {
@@ -15902,7 +15902,7 @@
         "protein_per_100g": 1.8,
         "carbs_per_100g": 10.4951,
         "fat_per_100g": 1.3049,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 58.0
     },
     {
@@ -15913,7 +15913,7 @@
         "protein_per_100g": 3.107,
         "carbs_per_100g": 3.3879,
         "fat_per_100g": 5.0787,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 31.542
     },
     {
@@ -15924,7 +15924,7 @@
         "protein_per_100g": 2.954,
         "carbs_per_100g": 5.0859,
         "fat_per_100g": 3.3772,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.795
     },
     {
@@ -15935,7 +15935,7 @@
         "protein_per_100g": 3.2265,
         "carbs_per_100g": 4.8304,
         "fat_per_100g": 1.8185,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.245
     },
     {
@@ -15946,7 +15946,7 @@
         "protein_per_100g": 3.204,
         "carbs_per_100g": 5.96,
         "fat_per_100g": 1.0465,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 32.916
     },
     {
@@ -15968,7 +15968,7 @@
         "protein_per_100g": 1.6,
         "carbs_per_100g": 9.8,
         "fat_per_100g": 1.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 51.0
     },
     {
@@ -15979,7 +15979,7 @@
         "protein_per_100g": 26.379,
         "carbs_per_100g": 37.0143,
         "fat_per_100g": 28.2449,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 336.565
     },
     {
@@ -15990,7 +15990,7 @@
         "protein_per_100g": 32.8,
         "carbs_per_100g": 46.0899,
         "fat_per_100g": 11.6101,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 352.0
     },
     {
@@ -16001,7 +16001,7 @@
         "protein_per_100g": 23.664,
         "carbs_per_100g": 51.6267,
         "fat_per_100g": 16.43,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 303.38
     },
     {
@@ -16012,7 +16012,7 @@
         "protein_per_100g": 34.63,
         "carbs_per_100g": 45.6455,
         "fat_per_100g": 10.39,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 401.45
     },
     {
@@ -16023,7 +16023,7 @@
         "protein_per_100g": 36.214,
         "carbs_per_100g": 51.1603,
         "fat_per_100g": 0.9139,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 337.655
     },
     {
@@ -16034,7 +16034,7 @@
         "protein_per_100g": 38.0,
         "carbs_per_100g": 48.8371,
         "fat_per_100g": 0.9629,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 435.0
     },
     {
@@ -16056,7 +16056,7 @@
         "protein_per_100g": 25.036,
         "carbs_per_100g": 51.0339,
         "fat_per_100g": 11.7819,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 331.421
     },
     {
@@ -16089,7 +16089,7 @@
         "protein_per_100g": 22.722,
         "carbs_per_100g": 45.9049,
         "fat_per_100g": 23.48,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 284.31
     },
     {
@@ -16111,7 +16111,7 @@
         "protein_per_100g": 38.0,
         "carbs_per_100g": 48.7742,
         "fat_per_100g": 1.0258,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 387.0
     },
     {
@@ -16122,7 +16122,7 @@
         "protein_per_100g": 32.781,
         "carbs_per_100g": 55.4155,
         "fat_per_100g": 0.6585,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 417.029
     },
     {
@@ -16133,7 +16133,7 @@
         "protein_per_100g": 35.6,
         "carbs_per_100g": 52.2609,
         "fat_per_100g": 0.6799,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 415.9
     },
     {
@@ -16155,7 +16155,7 @@
         "protein_per_100g": 19.8,
         "carbs_per_100g": 61.4407,
         "fat_per_100g": 12.2593,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 208.0
     },
     {
@@ -16166,7 +16166,7 @@
         "protein_per_100g": 1.0663,
         "carbs_per_100g": 15.8363,
         "fat_per_100g": 0.0535,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 21.2265
     },
     {
@@ -16177,7 +16177,7 @@
         "protein_per_100g": 1.015,
         "carbs_per_100g": 16.8801,
         "fat_per_100g": 0.0711,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 19.66
     },
     {
@@ -16188,7 +16188,7 @@
         "protein_per_100g": 4.06,
         "carbs_per_100g": 11.3083,
         "fat_per_100g": 3.1889,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 52.261
     },
     {
@@ -16232,7 +16232,7 @@
         "protein_per_100g": 2.3403,
         "carbs_per_100g": 13.5884,
         "fat_per_100g": 1.07,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 30.247
     },
     {
@@ -16254,7 +16254,7 @@
         "protein_per_100g": 2.041,
         "carbs_per_100g": 6.933,
         "fat_per_100g": 0.119,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 30.653
     },
     {
@@ -16265,7 +16265,7 @@
         "protein_per_100g": 2.3,
         "carbs_per_100g": 13.8124,
         "fat_per_100g": 0.3876,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 49.0
     },
     {
@@ -16276,7 +16276,7 @@
         "protein_per_100g": 2.113,
         "carbs_per_100g": 6.3641,
         "fat_per_100g": 0.0636,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 27.659
     },
     {
@@ -16298,7 +16298,7 @@
         "protein_per_100g": 3.148,
         "carbs_per_100g": 13.6244,
         "fat_per_100g": 3.3461,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 68.8405
     },
     {
@@ -16309,7 +16309,7 @@
         "protein_per_100g": 3.7,
         "carbs_per_100g": 15.6865,
         "fat_per_100g": 2.7135,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 58.0
     },
     {
@@ -16342,7 +16342,7 @@
         "protein_per_100g": 0.137,
         "carbs_per_100g": 11.0179,
         "fat_per_100g": 0.1247,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 28.484
     },
     {
@@ -16353,7 +16353,7 @@
         "protein_per_100g": 3.0,
         "carbs_per_100g": 13.6,
         "fat_per_100g": 0.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 57.0
     },
     {
@@ -16364,7 +16364,7 @@
         "protein_per_100g": 6.5,
         "carbs_per_100g": 9.1,
         "fat_per_100g": 8.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 187.0
     },
     {
@@ -16375,7 +16375,7 @@
         "protein_per_100g": 7.506,
         "carbs_per_100g": 56.2462,
         "fat_per_100g": 7.7991,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 88.375
     },
     {
@@ -16386,7 +16386,7 @@
         "protein_per_100g": 18.3195,
         "carbs_per_100g": 5.8799,
         "fat_per_100g": 23.6949,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1594.267
     },
     {
@@ -16397,7 +16397,7 @@
         "protein_per_100g": 21.678,
         "carbs_per_100g": 8.7505,
         "fat_per_100g": 12.9989,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1598.01
     },
     {
@@ -16408,7 +16408,7 @@
         "protein_per_100g": 25.143,
         "carbs_per_100g": 4.4371,
         "fat_per_100g": 22.584,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 548.31
     },
     {
@@ -16419,7 +16419,7 @@
         "protein_per_100g": 40.397,
         "carbs_per_100g": 3.139,
         "fat_per_100g": 34.0383,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1543.182
     },
     {
@@ -16452,7 +16452,7 @@
         "protein_per_100g": 3.37,
         "carbs_per_100g": 4.1709,
         "fat_per_100g": 3.9501,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 37.2105
     },
     {
@@ -16463,7 +16463,7 @@
         "protein_per_100g": 2.697,
         "carbs_per_100g": 3.8832,
         "fat_per_100g": 2.41,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 33.64
     },
     {
@@ -16474,7 +16474,7 @@
         "protein_per_100g": 2.9535,
         "carbs_per_100g": 4.5407,
         "fat_per_100g": 3.2627,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 46.3995
     },
     {
@@ -16485,7 +16485,7 @@
         "protein_per_100g": 1.1,
         "carbs_per_100g": 10.2697,
         "fat_per_100g": 1.461,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 29.282
     },
     {
@@ -16496,7 +16496,7 @@
         "protein_per_100g": 2.94,
         "carbs_per_100g": 9.5076,
         "fat_per_100g": 2.8338,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 40.98
     },
     {
@@ -16507,7 +16507,7 @@
         "protein_per_100g": 26.7,
         "carbs_per_100g": 34.8432,
         "fat_per_100g": 29.7568,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 232.0
     },
     {
@@ -16518,7 +16518,7 @@
         "protein_per_100g": 25.901,
         "carbs_per_100g": 35.1033,
         "fat_per_100g": 30.8219,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 225.03
     },
     {
@@ -16529,8 +16529,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 4.2429,
         "fat_per_100g": 71.93,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M0100201",
@@ -16540,7 +16540,7 @@
         "protein_per_100g": 0.043,
         "carbs_per_100g": 0.5643,
         "fat_per_100g": 99.1351,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2.71
     },
     {
@@ -16551,8 +16551,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.655,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M0200102",
@@ -16573,8 +16573,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 100.0,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M0300101",
@@ -16584,8 +16584,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.755,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M0900101",
@@ -16595,7 +16595,7 @@
         "protein_per_100g": 0.606,
         "carbs_per_100g": 0.8615,
         "fat_per_100g": 82.7195,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 5.897
     },
     {
@@ -16606,7 +16606,7 @@
         "protein_per_100g": 0.6715,
         "carbs_per_100g": 3.7439,
         "fat_per_100g": 77.5336,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 624.2275
     },
     {
@@ -16617,7 +16617,7 @@
         "protein_per_100g": 1.998,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 39.1051,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 24.413
     },
     {
@@ -16628,7 +16628,7 @@
         "protein_per_100g": 0.084,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 82.0213,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 804.418
     },
     {
@@ -16650,7 +16650,7 @@
         "protein_per_100g": 0.01,
         "carbs_per_100g": 1.3,
         "fat_per_100g": 76.22,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 883.22
     },
     {
@@ -16661,7 +16661,7 @@
         "protein_per_100g": 2.508,
         "carbs_per_100g": 29.5627,
         "fat_per_100g": 10.63,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 475.93
     },
     {
@@ -16672,8 +16672,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9874,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1100201",
@@ -16683,8 +16683,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.56,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1100301",
@@ -16694,8 +16694,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1200101",
@@ -16705,8 +16705,8 @@
         "protein_per_100g": 0.015,
         "carbs_per_100g": 0.1058,
         "fat_per_100g": 99.8373,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1300101",
@@ -16716,8 +16716,8 @@
         "protein_per_100g": 0.076,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9416,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1300201",
@@ -16727,8 +16727,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.003,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1400101",
@@ -16738,8 +16738,8 @@
         "protein_per_100g": 0.171,
         "carbs_per_100g": 6.8532,
         "fat_per_100g": 92.8096,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1500101",
@@ -16749,8 +16749,8 @@
         "protein_per_100g": 0.09,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9606,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1500201",
@@ -16760,8 +16760,8 @@
         "protein_per_100g": 0.086,
         "carbs_per_100g": 0.1765,
         "fat_per_100g": 99.6625,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1550101",
@@ -16771,8 +16771,8 @@
         "protein_per_100g": 0.065,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9779,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1600101",
@@ -16782,8 +16782,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1650101",
@@ -16793,8 +16793,8 @@
         "protein_per_100g": 0.023,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9548,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1700101",
@@ -16804,8 +16804,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.024,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M1800101",
@@ -16815,7 +16815,7 @@
         "protein_per_100g": 0.0107,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.8918,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1.701
     },
     {
@@ -16826,8 +16826,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.02,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2000101",
@@ -16837,8 +16837,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.95,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2000201",
@@ -16848,8 +16848,8 @@
         "protein_per_100g": 0.0165,
         "carbs_per_100g": 0.3872,
         "fat_per_100g": 99.5663,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2100101",
@@ -16859,8 +16859,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0223,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2200101",
@@ -16870,7 +16870,7 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.927,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 0.759
     },
     {
@@ -16881,8 +16881,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.02,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2300101",
@@ -16892,8 +16892,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2400101",
@@ -16903,8 +16903,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.86,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2500101",
@@ -16914,8 +16914,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9524,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2500201",
@@ -16925,8 +16925,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0134,
         "fat_per_100g": 99.89,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2500301",
@@ -16936,8 +16936,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.01,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2600101",
@@ -16947,8 +16947,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9736,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M2700101",
@@ -16958,8 +16958,8 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9537,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M9900101",
@@ -16969,8 +16969,8 @@
         "protein_per_100g": 0.0195,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.8778,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M9900201",
@@ -16980,8 +16980,8 @@
         "protein_per_100g": 0.028,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 100.3005,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "M9900301",
@@ -16991,18 +16991,18 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "N0100101",
         "name": "方糖",
         "category": "糖類",
         "calories_per_100g": 385.4624,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 99.6027,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1.67
     },
     {
@@ -17010,10 +17010,10 @@
         "name": "冰糖",
         "category": "糖類",
         "calories_per_100g": 386.642,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 99.9075,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 0.605
     },
     {
@@ -17043,10 +17043,10 @@
         "name": "麥芽糖",
         "category": "糖類",
         "calories_per_100g": 325.3714,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 84.0753,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 0.0
     },
     {
@@ -17054,10 +17054,10 @@
         "name": "果糖",
         "category": "糖類",
         "calories_per_100g": 297.4199,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 76.8527,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 0.0
     },
     {
@@ -17065,10 +17065,10 @@
         "name": "果寡糖",
         "category": "糖類",
         "calories_per_100g": 299.793,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 77.4659,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 0.46
     },
     {
@@ -17079,7 +17079,7 @@
         "protein_per_100g": 0.055,
         "carbs_per_100g": 66.6257,
         "fat_per_100g": 0.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1.43
     },
     {
@@ -17090,8 +17090,8 @@
         "protein_per_100g": 0.12,
         "carbs_per_100g": 81.45,
         "fat_per_100g": 0.11,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "N0700201",
@@ -17101,8 +17101,8 @@
         "protein_per_100g": 0.182,
         "carbs_per_100g": 79.628,
         "fat_per_100g": 0.2,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "N0800101",
@@ -17120,9 +17120,9 @@
         "name": "冬瓜糖磚",
         "category": "糖類",
         "calories_per_100g": 360.254,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 93.0889,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.1911,
         "sodium_per_100g": 17.697
     },
@@ -17188,7 +17188,7 @@
         "calories_per_100g": 46.4,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 11.6,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 3.41
     },
@@ -17296,9 +17296,9 @@
         "name": "薑母茶",
         "category": "飲料類",
         "calories_per_100g": 28.04,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 7.01,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 26.17
     },
@@ -17309,7 +17309,7 @@
         "calories_per_100g": 43.56,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 10.89,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.1,
         "sodium_per_100g": 8.33
     },
@@ -17318,10 +17318,10 @@
         "name": "黑豆茶",
         "category": "飲料類",
         "calories_per_100g": 12.754,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 3.1885,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 3.23
     },
     {
@@ -17340,10 +17340,10 @@
         "name": "麥茶",
         "category": "飲料類",
         "calories_per_100g": 17.76,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 4.44,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 17.96
     },
     {
@@ -17362,9 +17362,9 @@
         "name": "果汁醋飲料(綜合)",
         "category": "飲料類",
         "calories_per_100g": 37.25,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 9.3125,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 42.38
     },
@@ -17373,9 +17373,9 @@
         "name": "可樂",
         "category": "飲料類",
         "calories_per_100g": 51.36,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 12.84,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 6.62
     },
@@ -17384,9 +17384,9 @@
         "name": "可樂(低熱量)",
         "category": "飲料類",
         "calories_per_100g": 1.32,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 0.33,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 9.62
     },
@@ -17395,9 +17395,9 @@
         "name": "沙士",
         "category": "飲料類",
         "calories_per_100g": 36.68,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 9.17,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 4.65
     },
@@ -17409,7 +17409,7 @@
         "protein_per_100g": 0.834,
         "carbs_per_100g": 9.355,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 17.296
     },
     {
@@ -17420,17 +17420,17 @@
         "protein_per_100g": 0.0,
         "carbs_per_100g": 10.8537,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0600601",
         "name": "汽水(綜合口味)",
         "category": "飲料類",
         "calories_per_100g": 42.34,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 10.585,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 7.99
     },
@@ -17439,9 +17439,9 @@
         "name": "汽水(維生素強化)",
         "category": "飲料類",
         "calories_per_100g": 45.88,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 11.47,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 10.01
     },
@@ -17453,7 +17453,7 @@
         "protein_per_100g": 0.209,
         "carbs_per_100g": 0.2507,
         "fat_per_100g": 0.0587,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1.689
     },
     {
@@ -17475,7 +17475,7 @@
         "protein_per_100g": 2.981,
         "carbs_per_100g": 3.3635,
         "fat_per_100g": 1.9528,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 28.284
     },
     {
@@ -17496,9 +17496,9 @@
         "calories_per_100g": 0.1376,
         "protein_per_100g": 0.057,
         "carbs_per_100g": 0.0,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
-        "sodium_per_100g":NaN
+        "sodium_per_100g":0
     },
     {
         "code": "O0700601",
@@ -17507,7 +17507,7 @@
         "calories_per_100g": 34.432,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 8.608,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 7.78
     },
@@ -17518,7 +17518,7 @@
         "calories_per_100g": 36.68,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 9.17,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 5.49
     },
@@ -17529,9 +17529,9 @@
         "calories_per_100g": 0.0812,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 0.0203,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
-        "sodium_per_100g":NaN
+        "sodium_per_100g":0
     },
     {
         "code": "O0700901",
@@ -17540,7 +17540,7 @@
         "calories_per_100g": 0.4,
         "protein_per_100g": 0.05,
         "carbs_per_100g": 0.05,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 7.17
     },
@@ -17552,8 +17552,8 @@
         "protein_per_100g": 0.0708,
         "carbs_per_100g": 3.7771,
         "fat_per_100g": 0.0121,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0701101",
@@ -17563,8 +17563,8 @@
         "protein_per_100g": 0.0633,
         "carbs_per_100g": 5.202,
         "fat_per_100g": 0.0029,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0701201",
@@ -17574,8 +17574,8 @@
         "protein_per_100g": 0.0633,
         "carbs_per_100g": 8.828,
         "fat_per_100g": 0.0114,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0701301",
@@ -17584,9 +17584,9 @@
         "calories_per_100g": 0.3648,
         "protein_per_100g": 0.053,
         "carbs_per_100g": 0.0382,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
-        "sodium_per_100g":NaN
+        "sodium_per_100g":0
     },
     {
         "code": "O0701401",
@@ -17595,7 +17595,7 @@
         "calories_per_100g": 21.52,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 5.38,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 8.96
     },
@@ -17607,7 +17607,7 @@
         "protein_per_100g": 2.018,
         "carbs_per_100g": 1.3876,
         "fat_per_100g": 1.4317,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 11.872
     },
     {
@@ -17629,8 +17629,8 @@
         "protein_per_100g": 0.2473,
         "carbs_per_100g": 8.0623,
         "fat_per_100g": 2.8983,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0701801",
@@ -17640,8 +17640,8 @@
         "protein_per_100g": 0.241,
         "carbs_per_100g": 9.5745,
         "fat_per_100g": 2.5606,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0701901",
@@ -17651,8 +17651,8 @@
         "protein_per_100g": 0.2348,
         "carbs_per_100g": 12.2655,
         "fat_per_100g": 2.755,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0702001",
@@ -17662,8 +17662,8 @@
         "protein_per_100g": 0.2323,
         "carbs_per_100g": 13.53,
         "fat_per_100g": 2.2518,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0702101",
@@ -17673,8 +17673,8 @@
         "protein_per_100g": 0.2488,
         "carbs_per_100g": 14.4857,
         "fat_per_100g": 2.7301,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0702201",
@@ -17684,8 +17684,8 @@
         "protein_per_100g": 0.2423,
         "carbs_per_100g": 17.8917,
         "fat_per_100g": 2.3875,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "O0702301",
@@ -17695,7 +17695,7 @@
         "protein_per_100g": 1.724,
         "carbs_per_100g": 82.3467,
         "fat_per_100g": 12.85,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 244.55
     },
     {
@@ -17705,9 +17705,9 @@
         "calories_per_100g": 0.2524,
         "protein_per_100g": 0.064,
         "carbs_per_100g": 0.0,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
-        "sodium_per_100g":NaN
+        "sodium_per_100g":0
     },
     {
         "code": "O0702501",
@@ -17716,7 +17716,7 @@
         "calories_per_100g": 28.48,
         "protein_per_100g": 0.056,
         "carbs_per_100g": 7.064,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 19.06
     },
@@ -17727,7 +17727,7 @@
         "calories_per_100g": 29.64,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 7.41,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 17.17
     },
@@ -17739,7 +17739,7 @@
         "protein_per_100g": 1.059,
         "carbs_per_100g": 10.9973,
         "fat_per_100g": 0.0882,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 10.081
     },
     {
@@ -17749,7 +17749,7 @@
         "calories_per_100g": 33.04,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 8.26,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 15.75
     },
@@ -17771,7 +17771,7 @@
         "calories_per_100g": 39.4,
         "protein_per_100g": 0.0,
         "carbs_per_100g": 9.85,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 7.88
     },
@@ -17782,7 +17782,7 @@
         "calories_per_100g": 54.12,
         "protein_per_100g": 0.15,
         "carbs_per_100g": 13.38,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 38.37
     },
@@ -17791,9 +17791,9 @@
         "name": "維生素強化飲料(維生素C)",
         "category": "飲料類",
         "calories_per_100g": 57.04,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 14.26,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 1.88
     },
@@ -17804,7 +17804,7 @@
         "calories_per_100g": 28.44,
         "protein_per_100g": 0.08,
         "carbs_per_100g": 7.03,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 41.08
     },
@@ -17813,9 +17813,9 @@
         "name": "米醋飲料",
         "category": "飲料類",
         "calories_per_100g": 52.16,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 13.04,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0,
         "sodium_per_100g": 63.08
     },
@@ -17849,7 +17849,7 @@
         "protein_per_100g": 4.843,
         "carbs_per_100g": 82.9857,
         "fat_per_100g": 9.48,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.18
     },
     {
@@ -17857,9 +17857,9 @@
         "name": "紅茶沖泡包(檸檬)",
         "category": "飲料類",
         "calories_per_100g": 397.9068,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 99.4767,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.3544,
         "sodium_per_100g": 5.5
     },
@@ -18333,7 +18333,7 @@
         "protein_per_100g": 0.035,
         "carbs_per_100g": 0.3596,
         "fat_per_100g": 0.0987,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 34468.142
     },
     {
@@ -18344,7 +18344,7 @@
         "protein_per_100g": 0.01,
         "carbs_per_100g": 2.83,
         "fat_per_100g": 0.01,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 18341.12
     },
     {
@@ -18354,8 +18354,8 @@
         "calories_per_100g": 250.5008,
         "protein_per_100g": 44.5,
         "carbs_per_100g": 18.1252,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 11656.2
     },
     {
@@ -18365,8 +18365,8 @@
         "calories_per_100g": 269.28,
         "protein_per_100g": 45.0,
         "carbs_per_100g": 22.32,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 11878.7
     },
     {
@@ -18421,7 +18421,7 @@
         "protein_per_100g": 4.2,
         "carbs_per_100g": 6.5714,
         "fat_per_100g": 0.67,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 4471.51
     },
     {
@@ -18432,7 +18432,7 @@
         "protein_per_100g": 0.26,
         "carbs_per_100g": 0.2842,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 406.22
     },
     {
@@ -18443,7 +18443,7 @@
         "protein_per_100g": 0.278,
         "carbs_per_100g": 3.9812,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1285.75
     },
     {
@@ -18451,10 +18451,10 @@
         "name": "米醋",
         "category": "調味料及香辛料類",
         "calories_per_100g": 9.6804,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 2.4201,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 8.03
     },
     {
@@ -18473,10 +18473,10 @@
         "name": "高梁醋",
         "category": "調味料及香辛料類",
         "calories_per_100g": 27.24,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 6.81,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2.72
     },
     {
@@ -18484,10 +18484,10 @@
         "name": "薏仁醋",
         "category": "調味料及香辛料類",
         "calories_per_100g": 13.0944,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 3.2736,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 183.35
     },
     {
@@ -18506,10 +18506,10 @@
         "name": "香醋",
         "category": "調味料及香辛料類",
         "calories_per_100g": 2.8156,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 0.7039,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 103.2
     },
     {
@@ -18528,10 +18528,10 @@
         "name": "素食烏醋",
         "category": "調味料及香辛料類",
         "calories_per_100g": 41.7664,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 10.4416,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2130.83
     },
     {
@@ -18539,10 +18539,10 @@
         "name": "壽司醋",
         "category": "調味料及香辛料類",
         "calories_per_100g": 180.6768,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 45.1692,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2159.24
     },
     {
@@ -18552,8 +18552,8 @@
         "calories_per_100g": 90.0368,
         "protein_per_100g": 7.785,
         "carbs_per_100g": 14.7242,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 4997.455
     },
     {
@@ -18563,8 +18563,8 @@
         "calories_per_100g": 83.4616,
         "protein_per_100g": 9.32,
         "carbs_per_100g": 11.5454,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 4774.09
     },
     {
@@ -18596,8 +18596,8 @@
         "calories_per_100g": 77.3876,
         "protein_per_100g": 7.44,
         "carbs_per_100g": 11.9069,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 3508.26
     },
     {
@@ -18607,8 +18607,8 @@
         "calories_per_100g": 56.3476,
         "protein_per_100g": 6.47,
         "carbs_per_100g": 7.6169,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 3259.87
     },
     {
@@ -18618,8 +18618,8 @@
         "calories_per_100g": 103.3796,
         "protein_per_100g": 6.82,
         "carbs_per_100g": 19.0249,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
         "sodium_per_100g": 4050.0
     },
     {
@@ -18641,7 +18641,7 @@
         "protein_per_100g": 7.62,
         "carbs_per_100g": 23.3376,
         "fat_per_100g": 0.06,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2964.49
     },
     {
@@ -18685,7 +18685,7 @@
         "protein_per_100g": 10.222,
         "carbs_per_100g": 5.3421,
         "fat_per_100g": 0.2259,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 8907.59
     },
     {
@@ -18696,7 +18696,7 @@
         "protein_per_100g": 0.028,
         "carbs_per_100g": 0.0625,
         "fat_per_100g": 99.838,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 0.269
     },
     {
@@ -18704,11 +18704,11 @@
         "name": "香油",
         "category": "調味料及香辛料類",
         "calories_per_100g": 883.116,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 99.9,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "P0900301",
@@ -18751,7 +18751,7 @@
         "protein_per_100g": 9.46,
         "carbs_per_100g": 4.2411,
         "fat_per_100g": 38.05,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 941.21
     },
     {
@@ -19235,7 +19235,7 @@
         "protein_per_100g": 19.59,
         "carbs_per_100g": 1.3286,
         "fat_per_100g": 1.71,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 10131.54
     },
     {
@@ -19268,7 +19268,7 @@
         "protein_per_100g": 1.774,
         "carbs_per_100g": 19.0076,
         "fat_per_100g": 44.03,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 549.4
     },
     {
@@ -19334,7 +19334,7 @@
         "protein_per_100g": 6.693,
         "carbs_per_100g": 37.5981,
         "fat_per_100g": 46.5464,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 176.983
     },
     {
@@ -19466,7 +19466,7 @@
         "protein_per_100g": 3.912,
         "carbs_per_100g": 2.5102,
         "fat_per_100g": 26.28,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 217.14
     },
     {
@@ -19488,7 +19488,7 @@
         "protein_per_100g": 2.2,
         "carbs_per_100g": 59.5,
         "fat_per_100g": 33.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 158.0
     },
     {
@@ -19510,7 +19510,7 @@
         "protein_per_100g": 2.092,
         "carbs_per_100g": 75.2276,
         "fat_per_100g": 15.65,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 98.73
     },
     {
@@ -20134,7 +20134,7 @@
         "name": "果凍",
         "category": "糕餅點心類",
         "calories_per_100g": 90.9675,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 22.2984,
         "fat_per_100g": 0.1971,
         "fiber_per_100g": 0.0581,
@@ -20145,9 +20145,9 @@
         "name": "原味愛玉凍",
         "category": "糕餅點心類",
         "calories_per_100g": 1.6912,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 0.4228,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.3134,
         "sodium_per_100g": 12.6
     },
@@ -20156,9 +20156,9 @@
         "name": "檸檬愛玉凍",
         "category": "糕餅點心類",
         "calories_per_100g": 52.5044,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 13.1261,
-        "fat_per_100g":NaN,
+        "fat_per_100g":0,
         "fiber_per_100g": 0.0054,
         "sodium_per_100g": 28.38
     },
@@ -20181,7 +20181,7 @@
         "protein_per_100g": 2.981,
         "carbs_per_100g": 13.1104,
         "fat_per_100g": 5.0824,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 54.0663
     },
     {
@@ -20192,7 +20192,7 @@
         "protein_per_100g": 4.73,
         "carbs_per_100g": 13.7808,
         "fat_per_100g": 7.1268,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 63.31
     },
     {
@@ -20203,7 +20203,7 @@
         "protein_per_100g": 2.3,
         "carbs_per_100g": 17.3221,
         "fat_per_100g": 3.4779,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 66.0
     },
     {
@@ -20247,7 +20247,7 @@
         "protein_per_100g": 4.2,
         "carbs_per_100g": 19.8912,
         "fat_per_100g": 10.6088,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 80.0
     },
     {
@@ -20258,7 +20258,7 @@
         "protein_per_100g": 2.5,
         "carbs_per_100g": 22.643,
         "fat_per_100g": 9.057,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 102.0
     },
     {
@@ -20434,7 +20434,7 @@
         "protein_per_100g": 9.36,
         "carbs_per_100g": 53.9645,
         "fat_per_100g": 32.5741,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 100.62
     },
     {
@@ -20478,7 +20478,7 @@
         "protein_per_100g": 8.635,
         "carbs_per_100g": 53.7797,
         "fat_per_100g": 34.6927,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 108.67
     },
     {
@@ -20566,7 +20566,7 @@
         "protein_per_100g": 1.25,
         "carbs_per_100g": 82.5905,
         "fat_per_100g": 8.4308,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 4.23
     },
     {
@@ -20588,7 +20588,7 @@
         "protein_per_100g": 2.85,
         "carbs_per_100g": 78.0484,
         "fat_per_100g": 11.13,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 100.885
     },
     {
@@ -20599,7 +20599,7 @@
         "protein_per_100g": 3.395,
         "carbs_per_100g": 76.6854,
         "fat_per_100g": 11.315,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 119.225
     },
     {
@@ -20610,7 +20610,7 @@
         "protein_per_100g": 2.67,
         "carbs_per_100g": 75.6316,
         "fat_per_100g": 13.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 211.28
     },
     {
@@ -20665,7 +20665,7 @@
         "protein_per_100g": 0.73,
         "carbs_per_100g": 93.6854,
         "fat_per_100g": 2.77,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 21.23
     },
     {
@@ -20676,7 +20676,7 @@
         "protein_per_100g": 0.16,
         "carbs_per_100g": 98.2722,
         "fat_per_100g": 0.55,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 8.78
     },
     {
@@ -20709,7 +20709,7 @@
         "protein_per_100g": 23.4,
         "carbs_per_100g": 56.5963,
         "fat_per_100g": 10.0037,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 319.0
     },
     {
@@ -20830,7 +20830,7 @@
         "protein_per_100g": 2.675,
         "carbs_per_100g": 86.1472,
         "fat_per_100g": 7.0504,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 231.37
     },
     {
@@ -20841,7 +20841,7 @@
         "protein_per_100g": 15.9,
         "carbs_per_100g": 65.3,
         "fat_per_100g": 11.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 583.0
     },
     {
@@ -22323,11 +22323,11 @@
         "name": "麻竹筍干",
         "category": "加工調理食品及其他類",
         "calories_per_100g": 400.0,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 100.0,
-        "fat_per_100g":NaN,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fat_per_100g":0,
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "R4400901",
@@ -22590,7 +22590,7 @@
         "protein_per_100g": 19.029,
         "carbs_per_100g": 2.0613,
         "fat_per_100g": 12.5251,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 122.909
     },
     {
@@ -22898,7 +22898,7 @@
         "protein_per_100g": 17.179,
         "carbs_per_100g": 16.5024,
         "fat_per_100g": 13.0929,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 840.564
     },
     {
@@ -22909,7 +22909,7 @@
         "protein_per_100g": 15.853,
         "carbs_per_100g": 9.4137,
         "fat_per_100g": 2.22,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1200.2
     },
     {
@@ -22920,7 +22920,7 @@
         "protein_per_100g": 16.525,
         "carbs_per_100g": 9.0365,
         "fat_per_100g": 4.9249,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1005.785
     },
     {
@@ -22931,7 +22931,7 @@
         "protein_per_100g": 15.264,
         "carbs_per_100g": 9.9941,
         "fat_per_100g": 5.264,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1040.44
     },
     {
@@ -22942,7 +22942,7 @@
         "protein_per_100g": 18.85,
         "carbs_per_100g": 4.13,
         "fat_per_100g": 2.33,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1125.1
     },
     {
@@ -22953,7 +22953,7 @@
         "protein_per_100g": 16.2425,
         "carbs_per_100g": 11.5293,
         "fat_per_100g": 3.8187,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1029.125
     },
     {
@@ -22964,7 +22964,7 @@
         "protein_per_100g": 18.971,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 6.56,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 670.87
     },
     {
@@ -22975,7 +22975,7 @@
         "protein_per_100g": 13.5023,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 35.6209,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 609.5367
     },
     {
@@ -22986,7 +22986,7 @@
         "protein_per_100g": 18.45,
         "carbs_per_100g": 2.435,
         "fat_per_100g": 49.0067,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1539.35
     },
     {
@@ -22997,7 +22997,7 @@
         "protein_per_100g": 26.74,
         "carbs_per_100g": 6.3743,
         "fat_per_100g": 27.1647,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 3219.54
     },
     {
@@ -23008,7 +23008,7 @@
         "protein_per_100g": 21.099,
         "carbs_per_100g": 2.562,
         "fat_per_100g": 2.7538,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 524.391
     },
     {
@@ -23019,7 +23019,7 @@
         "protein_per_100g": 28.4,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 15.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 187.0
     },
     {
@@ -23030,7 +23030,7 @@
         "protein_per_100g": 26.825,
         "carbs_per_100g": 4.1913,
         "fat_per_100g": 4.72,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 904.52
     },
     {
@@ -23041,7 +23041,7 @@
         "protein_per_100g": 31.2,
         "carbs_per_100g": 13.9,
         "fat_per_100g": 7.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 3204.0
     },
     {
@@ -23052,7 +23052,7 @@
         "protein_per_100g": 30.3015,
         "carbs_per_100g": 41.8066,
         "fat_per_100g": 5.196,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1317.25
     },
     {
@@ -23063,7 +23063,7 @@
         "protein_per_100g": 37.971,
         "carbs_per_100g": 29.9318,
         "fat_per_100g": 7.0347,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1537.36
     },
     {
@@ -23074,7 +23074,7 @@
         "protein_per_100g": 30.019,
         "carbs_per_100g": 40.978,
         "fat_per_100g": 5.0233,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1177.115
     },
     {
@@ -23085,7 +23085,7 @@
         "protein_per_100g": 43.237,
         "carbs_per_100g": 25.1242,
         "fat_per_100g": 7.9025,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1324.51
     },
     {
@@ -23096,7 +23096,7 @@
         "protein_per_100g": 20.656,
         "carbs_per_100g": 7.8492,
         "fat_per_100g": 20.45,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 792.34
     },
     {
@@ -23107,7 +23107,7 @@
         "protein_per_100g": 16.996,
         "carbs_per_100g": 12.3213,
         "fat_per_100g": 26.3308,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1025.78
     },
     {
@@ -23118,7 +23118,7 @@
         "protein_per_100g": 16.6335,
         "carbs_per_100g": 17.7463,
         "fat_per_100g": 27.7526,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1021.19
     },
     {
@@ -23129,7 +23129,7 @@
         "protein_per_100g": 19.4,
         "carbs_per_100g": 19.3264,
         "fat_per_100g": 14.87,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1106.41
     },
     {
@@ -23140,7 +23140,7 @@
         "protein_per_100g": 15.11,
         "carbs_per_100g": 11.9165,
         "fat_per_100g": 28.2189,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 911.75
     },
     {
@@ -23151,7 +23151,7 @@
         "protein_per_100g": 22.39,
         "carbs_per_100g": 11.7881,
         "fat_per_100g": 16.28,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 913.87
     },
     {
@@ -23162,7 +23162,7 @@
         "protein_per_100g": 13.904,
         "carbs_per_100g": 15.8669,
         "fat_per_100g": 37.72,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 699.43
     },
     {
@@ -23173,7 +23173,7 @@
         "protein_per_100g": 13.285,
         "carbs_per_100g": 10.2441,
         "fat_per_100g": 18.1331,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 607.45
     },
     {
@@ -23217,7 +23217,7 @@
         "protein_per_100g": 16.64,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 20.2925,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 580.295
     },
     {
@@ -23228,7 +23228,7 @@
         "protein_per_100g": 10.535,
         "carbs_per_100g": 12.2739,
         "fat_per_100g": 12.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 597.14
     },
     {
@@ -23250,7 +23250,7 @@
         "protein_per_100g": 15.3,
         "carbs_per_100g": 12.6049,
         "fat_per_100g": 12.8951,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 596.0
     },
     {
@@ -23261,7 +23261,7 @@
         "protein_per_100g": 33.4,
         "carbs_per_100g": 20.3,
         "fat_per_100g": 25.1,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1518.0
     },
     {
@@ -23272,7 +23272,7 @@
         "protein_per_100g": 33.0,
         "carbs_per_100g": 31.6236,
         "fat_per_100g": 28.2764,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1467.0
     },
     {
@@ -23316,7 +23316,7 @@
         "protein_per_100g": 16.6,
         "carbs_per_100g": 2.0,
         "fat_per_100g": 7.8,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 726.0
     },
     {
@@ -23349,7 +23349,7 @@
         "protein_per_100g": 16.157,
         "carbs_per_100g": 15.7752,
         "fat_per_100g": 9.21,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 565.24
     },
     {
@@ -23371,7 +23371,7 @@
         "protein_per_100g": 8.525,
         "carbs_per_100g": 10.7318,
         "fat_per_100g": 2.4255,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 458.835
     },
     {
@@ -23382,7 +23382,7 @@
         "protein_per_100g": 10.7615,
         "carbs_per_100g": 14.6713,
         "fat_per_100g": 2.335,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 779.98
     },
     {
@@ -23404,7 +23404,7 @@
         "protein_per_100g": 13.4,
         "carbs_per_100g": 20.4,
         "fat_per_100g": 0.9,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 664.0
     },
     {
@@ -23448,7 +23448,7 @@
         "protein_per_100g": 15.261,
         "carbs_per_100g": 14.6533,
         "fat_per_100g": 6.48,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 422.67
     },
     {
@@ -23492,7 +23492,7 @@
         "protein_per_100g": 15.7,
         "carbs_per_100g": 19.2,
         "fat_per_100g": 0.4,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 443.0
     },
     {
@@ -23503,7 +23503,7 @@
         "protein_per_100g": 12.356,
         "carbs_per_100g": 19.2426,
         "fat_per_100g": 5.6185,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 723.36
     },
     {
@@ -23547,7 +23547,7 @@
         "protein_per_100g": 12.5485,
         "carbs_per_100g": 12.8833,
         "fat_per_100g": 19.5285,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 663.36
     },
     {
@@ -23558,7 +23558,7 @@
         "protein_per_100g": 11.3965,
         "carbs_per_100g": 13.5122,
         "fat_per_100g": 19.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 621.74
     },
     {
@@ -23569,7 +23569,7 @@
         "protein_per_100g": 12.8415,
         "carbs_per_100g": 14.4976,
         "fat_per_100g": 23.5713,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 603.7
     },
     {
@@ -23580,7 +23580,7 @@
         "protein_per_100g": 9.3,
         "carbs_per_100g": 18.6217,
         "fat_per_100g": 0.6783,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 694.0
     },
     {
@@ -23591,7 +23591,7 @@
         "protein_per_100g": 12.903,
         "carbs_per_100g": 15.5213,
         "fat_per_100g": 0.1823,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 830.105
     },
     {
@@ -23635,7 +23635,7 @@
         "protein_per_100g": 11.4,
         "carbs_per_100g": 9.4,
         "fat_per_100g": 4.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 448.0
     },
     {
@@ -23646,7 +23646,7 @@
         "protein_per_100g": 21.9,
         "carbs_per_100g": 0.2,
         "fat_per_100g": 1.7,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1482.0
     },
     {
@@ -23657,7 +23657,7 @@
         "protein_per_100g": 33.77,
         "carbs_per_100g": 1.5165,
         "fat_per_100g": 60.38,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 562.97
     },
     {
@@ -23668,7 +23668,7 @@
         "protein_per_100g": 28.2,
         "carbs_per_100g": 43.8,
         "fat_per_100g": 20.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1761.0
     },
     {
@@ -23679,7 +23679,7 @@
         "protein_per_100g": 31.319,
         "carbs_per_100g": 37.4157,
         "fat_per_100g": 22.8807,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1678.62
     },
     {
@@ -23690,7 +23690,7 @@
         "protein_per_100g": 28.972,
         "carbs_per_100g": 35.3226,
         "fat_per_100g": 21.6211,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1499.75
     },
     {
@@ -23833,8 +23833,8 @@
         "protein_per_100g": 10.6,
         "carbs_per_100g": 2.9,
         "fat_per_100g": 26.0,
-        "fiber_per_100g":NaN,
-        "sodium_per_100g":NaN
+        "fiber_per_100g":0,
+        "sodium_per_100g":0
     },
     {
         "code": "R7101201",
@@ -23943,7 +23943,7 @@
         "protein_per_100g": 22.753,
         "carbs_per_100g": 3.6227,
         "fat_per_100g": 14.16,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 194.73
     },
     {
@@ -23954,7 +23954,7 @@
         "protein_per_100g": 18.8,
         "carbs_per_100g": 3.6,
         "fat_per_100g": 14.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 509.0
     },
     {
@@ -23965,7 +23965,7 @@
         "protein_per_100g": 31.1,
         "carbs_per_100g": 5.3,
         "fat_per_100g": 17.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2853.0
     },
     {
@@ -23976,7 +23976,7 @@
         "protein_per_100g": 15.55,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 32.55,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 376.5
     },
     {
@@ -23987,7 +23987,7 @@
         "protein_per_100g": 18.5,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 23.6,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 43.0
     },
     {
@@ -23998,7 +23998,7 @@
         "protein_per_100g": 22.294,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.3584,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 257.65
     },
     {
@@ -24009,7 +24009,7 @@
         "protein_per_100g": 25.031,
         "carbs_per_100g": 0.8756,
         "fat_per_100g": 18.7321,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 420.708
     },
     {
@@ -24020,7 +24020,7 @@
         "protein_per_100g": 17.4,
         "carbs_per_100g": 0.3,
         "fat_per_100g": 17.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1511.0
     },
     {
@@ -24031,7 +24031,7 @@
         "protein_per_100g": 14.9,
         "carbs_per_100g": 1.3,
         "fat_per_100g": 24.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 889.0
     },
     {
@@ -24064,7 +24064,7 @@
         "protein_per_100g": 46.627,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 27.3048,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 687.732
     },
     {
@@ -24075,7 +24075,7 @@
         "protein_per_100g": 11.221,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 4.389,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1677.1049
     },
     {
@@ -24086,7 +24086,7 @@
         "protein_per_100g": 36.581,
         "carbs_per_100g": 18.6962,
         "fat_per_100g": 8.4625,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1193.592
     },
     {
@@ -24119,7 +24119,7 @@
         "protein_per_100g": 36.101,
         "carbs_per_100g": 39.0652,
         "fat_per_100g": 0.7178,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1238.8225
     },
     {
@@ -24130,7 +24130,7 @@
         "protein_per_100g": 6.716,
         "carbs_per_100g": 5.1893,
         "fat_per_100g": 1.806,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2868.0777
     },
     {
@@ -24141,7 +24141,7 @@
         "protein_per_100g": 14.8,
         "carbs_per_100g": 11.0,
         "fat_per_100g": 0.2,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 1035.0
     },
     {
@@ -24152,7 +24152,7 @@
         "protein_per_100g": 20.1,
         "carbs_per_100g": 1.9,
         "fat_per_100g": 1.3,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 4254.0
     },
     {
@@ -24284,7 +24284,7 @@
         "protein_per_100g": 0.389,
         "carbs_per_100g": 8.2432,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2.3
     },
     {
@@ -24292,10 +24292,10 @@
         "name": "啤酒",
         "category": "加工調理食品及其他類",
         "calories_per_100g": 49.0056,
-        "protein_per_100g":NaN,
+        "protein_per_100g":0,
         "carbs_per_100g": 8.8764,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2.55
     },
     {
@@ -24306,7 +24306,7 @@
         "protein_per_100g": 1.84,
         "carbs_per_100g": 19.0544,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2.55
     },
     {
@@ -24317,7 +24317,7 @@
         "protein_per_100g": 0.143,
         "carbs_per_100g": 14.1844,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 3.28
     },
     {
@@ -24328,7 +24328,7 @@
         "protein_per_100g": 0.103,
         "carbs_per_100g": 14.7886,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 2.6
     },
     {
@@ -24339,7 +24339,7 @@
         "protein_per_100g": 8.581,
         "carbs_per_100g": 0.0,
         "fat_per_100g": 0.0,
-        "fiber_per_100g":NaN,
+        "fiber_per_100g":0,
         "sodium_per_100g": 86.37
     }
 ]
