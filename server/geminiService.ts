@@ -213,14 +213,13 @@ ${referenceFoods}
     let lastError: any = null;
 
     const candidateConfigs = [
-      {
-        model: "gemini-3.8-flash",
-        thinkingConfig: { thinkingLevel: ThinkingLevel.LOW },
+            {
+        model: "gemini-3.1-flash-lite",
+        thinkingConfig: { thinkingLevel: ThinkingLevel.MINIMAL },
         useSchema: true
       },
       {
-        model: "gemini-3.1-flash-lite",
-        thinkingConfig: { thinkingLevel: ThinkingLevel.MINIMAL },
+        model: "gemini-3.8-flash", 
         useSchema: true
       },
       {
