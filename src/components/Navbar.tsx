@@ -115,9 +115,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           <div className="flex items-center gap-2">
             {/* Cloud Status */}
             <div className="hidden lg:flex items-center gap-1.5 text-xs text-slate-500 bg-slate-100 px-2.5 py-1 rounded-full border border-slate-200">
-              <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></span>
-              <span>GCP Cloud Run</span>
-                        </div>
+            </div>
 
             {/* User Target Badge & Switcher */}
             {user ? (
