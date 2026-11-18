@@ -23,11 +23,11 @@ export const Navbar: React.FC<NavbarProps> = ({
 
   return (
     <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-slate-200">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-16">
+      <div className="max-w-full mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex items-center justify-between gap-4 h-16">
           
           {/* Logo & Brand */}
-          <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3 shrink-0">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-tr from-emerald-600 to-teal-500 flex items-center justify-center text-white shadow-md shadow-emerald-600/20">
               <Camera className="w-5 h-5" />
             </div>
@@ -39,7 +39,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   RAG 食藥署庫
                 </span>
               </div>
-              <p className="text-xs text-slate-500 hidden sm:block">專業健身營養師 ‧ 拍照即記錄系統</p>
+              <p className="text-xs text-slate-500 hidden sm:block whitespace-nowrap">專業健身營養師 ‧ 拍照即記錄系統</p>
             </div>
           </div>
 
@@ -106,7 +106,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   : 'text-slate-600 hover:text-slate-900 hover:bg-slate-200/60'
               }`}
             >
-              <MessageSquareText className="w-4 h-4" />
+              <MessageSquareText className="w-4 h-4 shrink-0" />
               營養師諮詢
             </button>
           </nav>
